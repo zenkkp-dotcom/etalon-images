@@ -9050,7 +9050,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>5</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|5|1500</PromoManualOptions>
     <Address>Новохоперск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%BD%D0%BE%D0%B2%D0%BE%D1%85%D0%BE%D0%BF%D0%B5%D1%80%D1%81%D0%BA_okno_1_ca8be6.jpg" />
@@ -9115,7 +9116,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>5</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|5|1500</PromoManualOptions>
     <Address>Калач, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%BA%D0%B0%D0%BB%D0%B0%D1%87_okno_1_5cf2d7.jpg" />
@@ -9182,7 +9184,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2000</Price>
-    <PromoBid>5</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|5|1500</PromoManualOptions>
     <Address>Богучар, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B1%D0%BE%D0%B3%D1%83%D1%87%D0%B0%D1%80_okno_1_72fb3b.jpg" />
@@ -9247,7 +9250,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>3500</Price>
-    <PromoBid>5</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|5|1500</PromoManualOptions>
     <Address>Репьёвка, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D1%80%D0%B5%D0%BF%D1%8Ce%D0%B2%D0%BA%D0%B0_okno_1_f669f4.jpg" />
@@ -9312,7 +9316,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>3500</Price>
-    <PromoBid>5</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|5|1500</PromoManualOptions>
     <Address>Давыдовка, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B4%D0%B0%D0%B2%D1%8B%D0%B4%D0%BE%D0%B2%D0%BA%D0%B0_okno_1_c7fe7b.jpg" />
@@ -9377,7 +9382,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>7000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Эртиль, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%8D%D1%80%D1%82%D0%B8%D0%BB%D1%8C_okno_1_2b3165.jpg" />
@@ -9442,7 +9448,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>3000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Воробьёвка, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D1%8Ce%D0%B2%D0%BA%D0%B0_okno_1_cd2ddd.jpg" />
@@ -9507,7 +9514,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>5000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Анна, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B0%D0%BD%D0%BD%D0%B0_okno_1_5697f2.jpg" />
@@ -9572,7 +9580,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>3000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Поворино, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BD%D0%BE_okno_1_9ab0c7.jpg" />
@@ -9637,7 +9646,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Землянск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D1%81%D0%BA_okno_1_b2c2ed.jpg" />
@@ -9702,7 +9712,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>6000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Бутурлиновка, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B1%D1%83%D1%82%D1%83%D1%80%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_okno_1_ada84e.jpg" />
@@ -9767,7 +9778,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Павловск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA_okno_1_a41dbb.jpg" />
@@ -9832,7 +9844,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>5000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Подгоренский, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8j_okno_1_1b1508.jpg" />
@@ -9897,7 +9910,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>1500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Лиски, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BB%D0%B8%D1%81%D0%BA%D0%B8_okno_1_9fd94d.jpg" />
@@ -9962,7 +9976,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>4000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Поворино, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BD%D0%BE_okno_1_9ab0c7.jpg" />
@@ -10027,7 +10042,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Россошь, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%80%D0%BE%D1%81%D1%81%D0%BE%D1%88%D1%8C_okno_1_f41dea.jpg" />
@@ -10092,7 +10108,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Острогожск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%BE%D0%B6%D1%81%D0%BA_okno_1_6311dd.jpg" />
@@ -10157,7 +10174,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>5000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Анна, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B0%D0%BD%D0%BD%D0%B0_okno_1_5697f2.jpg" />
@@ -10222,7 +10240,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Павловск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA_okno_1_a41dbb.jpg" />
@@ -10287,7 +10306,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>5000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Бутурлиновка, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B1%D1%83%D1%82%D1%83%D1%80%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_okno_1_ada84e.jpg" />
@@ -10352,7 +10372,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>3000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Павловск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA_okno_1_a41dbb.jpg" />
@@ -10417,7 +10438,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Новая Усмань, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D1%83%D1%81%D0%BC%D0%B0%D0%BD%D1%8C_okno_1_12bd2b.jpg" />
@@ -10482,7 +10504,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Лиски, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BB%D0%B8%D1%81%D0%BA%D0%B8_okno_1_9fd94d.jpg" />
@@ -10547,7 +10570,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>7000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Рамонь, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%80%D0%B0%D0%BC%D0%BE%D0%BD%D1%8C_okno_1_645205.jpg" />
@@ -10612,7 +10636,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Лиски, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BB%D0%B8%D1%81%D0%BA%D0%B8_okno_1_9fd94d.jpg" />
@@ -10677,7 +10702,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Бутурлиновка, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B1%D1%83%D1%82%D1%83%D1%80%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_okno_1_ada84e.jpg" />
@@ -10742,7 +10768,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>4000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Павловск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA_okno_1_a41dbb.jpg" />
@@ -10807,7 +10834,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Эртиль, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%8D%D1%80%D1%82%D0%B8%D0%BB%D1%8C_okno_1_2b3165.jpg" />
@@ -10872,7 +10900,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>5000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Воронеж, Ленинский проспект, д. 20/1</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_1_785a4f.jpg" />
@@ -10937,7 +10966,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Землянск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D1%81%D0%BA_okno_1_b2c2ed.jpg" />
@@ -11002,7 +11032,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>5000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Семилуки, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%81%D0%B5%D0%BC%D0%B8%D0%BB%D1%83%D0%BA%D0%B8_okno_1_1c1e07.jpg" />
@@ -11067,7 +11098,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>1500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Новая Усмань, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D1%83%D1%81%D0%BC%D0%B0%D0%BD%D1%8C_okno_1_12bd2b.jpg" />
@@ -11132,7 +11164,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Подгоренский, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8j_okno_1_1b1508.jpg" />
@@ -11197,7 +11230,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Подгоренский, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8j_okno_1_1b1508.jpg" />
@@ -11262,7 +11296,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>5000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Бобров, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B1%D0%BE%D0%B1%D1%80%D0%BE%D0%B2_okno_1_5f58bd.jpg" />
@@ -11327,7 +11362,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>4000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Воронеж, Ленинский проспект, д. 20/1</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_1_785a4f.jpg" />
@@ -11392,7 +11428,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>6000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Бобров, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B1%D0%BE%D0%B1%D1%80%D0%BE%D0%B2_okno_1_5f58bd.jpg" />
@@ -11457,7 +11494,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Бобров, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B1%D0%BE%D0%B1%D1%80%D0%BE%D0%B2_okno_1_5f58bd.jpg" />
@@ -11522,7 +11560,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>4000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Анна, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B0%D0%BD%D0%BD%D0%B0_okno_1_5697f2.jpg" />
@@ -11587,7 +11626,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>6000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Таловая, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%82%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_okno_1_14e157.jpg" />
@@ -11652,7 +11692,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Поворино, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BD%D0%BE_okno_1_9ab0c7.jpg" />
@@ -11717,7 +11758,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>7000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Воронеж, Ленинский проспект, д. 20/1</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_1_785a4f.jpg" />
@@ -11782,7 +11824,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>6000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Поворино, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BD%D0%BE_okno_1_9ab0c7.jpg" />
@@ -11847,7 +11890,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>6000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Острогожск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%BE%D0%B6%D1%81%D0%BA_okno_1_6311dd.jpg" />
@@ -11912,7 +11956,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>3000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Эртиль, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%8D%D1%80%D1%82%D0%B8%D0%BB%D1%8C_okno_1_2b3165.jpg" />
@@ -11977,7 +12022,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Калач, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BA%D0%B0%D0%BB%D0%B0%D1%87_okno_1_4581d1.jpg" />
@@ -12042,7 +12088,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Острогожск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%BE%D0%B6%D1%81%D0%BA_okno_1_6311dd.jpg" />
@@ -12107,7 +12154,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>6000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Острогожск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%BE%D0%B6%D1%81%D0%BA_okno_1_6311dd.jpg" />
@@ -12172,7 +12220,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>4000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Борисоглебск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B1%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B3%D0%BB%D0%B5%D0%B1%D1%81%D0%BA_okno_1_beba0b.jpg" />
@@ -12237,7 +12286,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>4000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Новая Усмань, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D1%83%D1%81%D0%BC%D0%B0%D0%BD%D1%8C_okno_1_12bd2b.jpg" />
@@ -12302,7 +12352,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Землянск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D1%81%D0%BA_okno_1_b2c2ed.jpg" />
@@ -12367,7 +12418,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>4000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Анна, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B0%D0%BD%D0%BD%D0%B0_okno_1_5697f2.jpg" />
@@ -12432,7 +12484,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>6000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Поворино, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BD%D0%BE_okno_1_9ab0c7.jpg" />
@@ -12497,7 +12550,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>5000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Рамонь, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%80%D0%B0%D0%BC%D0%BE%D0%BD%D1%8C_okno_1_645205.jpg" />
@@ -12562,7 +12616,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>1500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Новая Усмань, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D1%83%D1%81%D0%BC%D0%B0%D0%BD%D1%8C_okno_1_12bd2b.jpg" />
@@ -12627,7 +12682,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>6000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Павловск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA_okno_1_a41dbb.jpg" />
@@ -12692,7 +12748,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Рамонь, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%80%D0%B0%D0%BC%D0%BE%D0%BD%D1%8C_okno_1_645205.jpg" />
@@ -12757,7 +12814,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>6000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Новая Усмань, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D1%83%D1%81%D0%BC%D0%B0%D0%BD%D1%8C_okno_1_12bd2b.jpg" />
@@ -12822,7 +12880,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>7000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Россошь, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%80%D0%BE%D1%81%D1%81%D0%BE%D1%88%D1%8C_okno_1_f41dea.jpg" />
@@ -12887,7 +12946,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Новая Усмань, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D1%83%D1%81%D0%BC%D0%B0%D0%BD%D1%8C_okno_1_12bd2b.jpg" />
@@ -12952,7 +13012,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>7000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Борисоглебск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B1%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B3%D0%BB%D0%B5%D0%B1%D1%81%D0%BA_okno_1_beba0b.jpg" />
@@ -13017,7 +13078,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>4000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Эртиль, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%8D%D1%80%D1%82%D0%B8%D0%BB%D1%8C_okno_1_2b3165.jpg" />
@@ -13082,7 +13144,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>1500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Землянск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D1%81%D0%BA_okno_1_b2c2ed.jpg" />
@@ -13147,7 +13210,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Калач, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BA%D0%B0%D0%BB%D0%B0%D1%87_okno_1_4581d1.jpg" />
@@ -13212,7 +13276,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>6000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Семилуки, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%81%D0%B5%D0%BC%D0%B8%D0%BB%D1%83%D0%BA%D0%B8_okno_1_1c1e07.jpg" />
@@ -13277,7 +13342,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>7000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Воронеж, Ленинский проспект, д. 20/1</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_1_785a4f.jpg" />
@@ -13342,7 +13408,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>5000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Бобров, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B1%D0%BE%D0%B1%D1%80%D0%BE%D0%B2_okno_1_5f58bd.jpg" />
@@ -13407,7 +13474,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Поворино, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BD%D0%BE_okno_1_9ab0c7.jpg" />
@@ -13472,7 +13540,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Бобров, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B1%D0%BE%D0%B1%D1%80%D0%BE%D0%B2_okno_1_5f58bd.jpg" />
@@ -13537,7 +13606,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>3000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Борисоглебск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B1%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B3%D0%BB%D0%B5%D0%B1%D1%81%D0%BA_okno_1_beba0b.jpg" />
@@ -13602,7 +13672,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>1500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Россошь, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%80%D0%BE%D1%81%D1%81%D0%BE%D1%88%D1%8C_okno_1_f41dea.jpg" />
@@ -13667,7 +13738,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>4000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Эртиль, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%8D%D1%80%D1%82%D0%B8%D0%BB%D1%8C_okno_1_2b3165.jpg" />
@@ -13732,7 +13804,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>7000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Подгоренский, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8j_okno_1_1b1508.jpg" />
@@ -13797,7 +13870,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Землянск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D1%81%D0%BA_okno_1_b2c2ed.jpg" />
@@ -13862,7 +13936,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>7000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Землянск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D1%81%D0%BA_okno_1_b2c2ed.jpg" />
@@ -13927,7 +14002,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>5000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Анна, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B0%D0%BD%D0%BD%D0%B0_okno_1_5697f2.jpg" />
@@ -13992,7 +14068,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>7000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Воронеж, Ленинский проспект, д. 20/1</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_1_785a4f.jpg" />
@@ -14057,7 +14134,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>7000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Россошь, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%80%D0%BE%D1%81%D1%81%D0%BE%D1%88%D1%8C_okno_1_f41dea.jpg" />
@@ -14122,7 +14200,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>4000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Острогожск, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%BE%D0%B6%D1%81%D0%BA_okno_1_6311dd.jpg" />
@@ -14187,7 +14266,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>4000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Эртиль, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%8D%D1%80%D1%82%D0%B8%D0%BB%D1%8C_okno_1_2b3165.jpg" />
@@ -14252,7 +14332,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>5000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Рамонь, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%80%D0%B0%D0%BC%D0%BE%D0%BD%D1%8C_okno_1_645205.jpg" />
@@ -14317,7 +14398,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>4000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Рамонь, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%80%D0%B0%D0%BC%D0%BE%D0%BD%D1%8C_okno_1_645205.jpg" />
@@ -14382,7 +14464,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>3000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Лиски, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BB%D0%B8%D1%81%D0%BA%D0%B8_okno_1_9fd94d.jpg" />
@@ -14447,7 +14530,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>5000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Семилуки, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%81%D0%B5%D0%BC%D0%B8%D0%BB%D1%83%D0%BA%D0%B8_okno_1_1c1e07.jpg" />
@@ -14512,7 +14596,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Россошь, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%80%D0%BE%D1%81%D1%81%D0%BE%D1%88%D1%8C_okno_1_f41dea.jpg" />
@@ -14577,7 +14662,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>7000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Семилуки, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D1%81%D0%B5%D0%BC%D0%B8%D0%BB%D1%83%D0%BA%D0%B8_okno_1_1c1e07.jpg" />
@@ -14642,7 +14728,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>6000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Подгоренский, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8j_okno_1_1b1508.jpg" />
@@ -14707,7 +14794,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>3000</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Бутурлиновка, Воронежская область</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B1%D1%83%D1%82%D1%83%D1%80%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_okno_1_ada84e.jpg" />
@@ -14772,7 +14860,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>10500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Воронеж, Ленинский проспект, д. 20/1</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_1_785a4f.jpg" />
@@ -14837,7 +14926,8 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>12500</Price>
-    <PromoBid>4</PromoBid>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>|4|1500</PromoManualOptions>
     <Address>Воронеж, Ленинский проспект, д. 20/1</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_1_785a4f.jpg" />
