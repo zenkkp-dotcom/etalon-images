@@ -732,7 +732,11 @@
 
 Сохраните в Избранное!</Description>
     <Price>2950</Price>
+<<<<<<< HEAD
     <PromoManualOptions>Воронеж|4.7|1500</PromoManualOptions>
+=======
+    <PromoManualOptions>Воронеж|4.7|1500</PromoManualOptions>
+>>>>>>> 91b10c8 (fix: promo price 5 rub for new ad (Voronezh Leninsky))
     <Address>Воронеж, Ленинский район</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/воронеж_okno_1_cf02fb.jpg" />
