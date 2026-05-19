@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Эталон Пласт — Пластиковые окна в Воронеже | Замер бесплатно</title>
+<meta name="description" content="Эталон Пласт — установка пластиковых окон VEKA, REHAU, KBE в Воронеже с 2008 года. 20 000+ семей, 300+ объектов. Замер бесплатно. Рассрочка 0%. Звоните: 261-25-95">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --brand: #1D2D8F;
+  --brand-dark: #141f66;
+  --cta: #E31E24;
+  --cta-hover: #c01a1f;
+  --cta-glow: rgba(227,30,36,.3);
+  --ink: #0A1628;
+  --muted: #4A5568;
+  --light: #8496B0;
+  --bg: #fff;
+  --bg-alt: #F5F7FB;
+  --border: #E2E8F0;
+  --border-light: #EDF0F7;
+  --shadow-sm: 0 2px 8px rgba(50,50,93,.08);
+  --shadow-md: 0 10px 30px rgba(50,50,93,.12), 0 4px 12px rgba(0,0,0,.06);
+  --shadow-lg: 0 24px 50px rgba(50,50,93,.16), 0 8px 20px rgba(0,0,0,.08);
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --ease: cubic-bezier(.4,0,.2,1);
+  --dur: .25s;
+}
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:'Montserrat',sans-serif;font-size:16px;color:var(--ink);background:var(--bg);line-height:1.6;-webkit-font-smoothing:antialiased}
+a{text-decoration:none;color:inherit}
+button{font-family:inherit;cursor:pointer}
+img{max-width:100%;display:block}
+h1,h2,h3{font-family:'PT Serif',serif;color:var(--ink)}
+h1{font-size:clamp(26px,4vw,52px);font-weight:700;line-height:1.1;letter-spacing:-0.5px}
+h2{font-size:clamp(20px,3vw,36px);font-weight:700;line-height:1.15;letter-spacing:-0.3px}
+h3{font-size:clamp(16px,1.8vw,20px);font-weight:700;line-height:1.3}
+p{color:var(--muted);line-height:1.7}
+
+.container{max-width:1160px;margin:0 auto;padding:0 32px}
+section{padding:88px 0}
+.section-label{display:inline-block;font-size:11px;font-weight:700;letter-spacing:2.5px;text-transform:uppercase;color:var(--cta);margin-bottom:12px}
+.section-sub{font-size:16px;color:var(--muted);line-height:1.75;max-width:560px;margin-top:12px}
+.section-header{margin-bottom:48px;text-align:center}
+.section-header .section-sub{margin-left:auto;margin-right:auto}
+
+/* BUTTONS */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:14px 28px;min-height:48px;border-radius:var(--radius-sm);border:none;font-family:'Montserrat',sans-serif;font-weight:700;font-size:14px;transition:all var(--dur) var(--ease);white-space:nowrap}
+.btn-primary{background:var(--cta);color:#fff}
+.btn-primary:hover{background:var(--cta-hover);transform:translateY(-2px);box-shadow:0 8px 24px var(--cta-glow)}
+.btn-outline{background:transparent;color:var(--brand);border:1.5px solid var(--brand)}
+.btn-outline:hover{background:rgba(29,45,143,.04)}
+.btn-white{background:#fff;color:var(--brand)}
+.btn-white:hover{background:var(--border-light)}
+.btn-lg{padding:16px 34px;font-size:15px;min-height:54px}
+
+/* TOPBAR */
+.topbar{background:var(--brand);color:rgba(255,255,255,.8);font-size:12px;font-weight:500;padding:8px 0}
+.topbar-inner{display:flex;align-items:center;justify-content:space-between;gap:16px;max-width:1160px;margin:0 auto;padding:0 32px}
+.topbar-badge{background:var(--cta);color:#fff;padding:2px 10px;border-radius:4px;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.5px}
+.topbar-phone{color:#fff;font-weight:700}
+
+/* HEADER */
+header{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.97);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);transition:box-shadow var(--dur)}
+header.scrolled{box-shadow:var(--shadow-md)}
+.header-inner{display:flex;align-items:center;gap:24px;height:64px}
+.logo{display:flex;align-items:center;gap:10px;flex-shrink:0;font-weight:800;font-size:18px;color:var(--brand)}
+.logo-icon{width:40px;height:40px;background:var(--brand);border-radius:var(--radius-sm);display:flex;align-items:center;justify-content:center;color:#fff;font-family:'PT Serif',serif;font-size:18px;font-weight:700}
+.header-nav{display:flex;gap:24px;flex:1;justify-content:center}
+.header-nav a{font-size:13px;font-weight:600;color:var(--muted);transition:color var(--dur)}
+.header-nav a:hover{color:var(--brand)}
+.header-phone{font-size:16px;font-weight:700;color:var(--brand);white-space:nowrap}
+.header-phone small{display:block;font-size:9px;font-weight:400;color:var(--light)}
+
+/* MOBILE */
+.burger{display:none;flex-direction:column;gap:5px;width:36px;height:36px;background:none;border:1px solid var(--border);border-radius:var(--radius-sm);padding:8px;flex-shrink:0}
+.burger span{height:2px;background:var(--brand);border-radius:2px}
+.mobile-nav{display:none;position:fixed;inset:0;z-index:99;background:rgba(10,22,40,.5);opacity:0;pointer-events:none;transition:opacity var(--dur)}
+.mobile-nav.open{opacity:1;pointer-events:all}
+.mobile-nav-panel{position:absolute;top:0;right:0;bottom:0;width:280px;background:#fff;padding:24px;display:flex;flex-direction:column;gap:4px;transform:translateX(100%);transition:transform .3s var(--ease);box-shadow:var(--shadow-lg)}
+.mobile-nav.open .mobile-nav-panel{transform:translateX(0)}
+.mobile-nav-close{align-self:flex-end;background:none;border:none;font-size:22px;color:var(--muted);padding:4px 8px;margin-bottom:8px}
+.mobile-nav-panel a{display:block;padding:12px 16px;border-radius:var(--radius-sm);font-size:14px;font-weight:600;color:var(--ink);border-bottom:1px solid var(--border-light)}
+.mobile-nav-panel a:hover{background:var(--bg-alt)}
+.mobile-nav-panel .btn{margin-top:12px;width:100%}
+
+/* HERO */
+.hero{position:relative;overflow:hidden;background:linear-gradient(135deg, #070f2b 0%, #0d1e5e 40%, #1a2fa0 100%);padding:100px 0 120px}
+.hero::before{content:'';position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.04) 1px,transparent 1px);background-size:36px 36px}
+.hero::after{content:'';position:absolute;width:650px;height:650px;border-radius:50%;background:radial-gradient(circle,rgba(227,30,36,.12),transparent 65%);top:-100px;right:-150px;pointer-events:none}
+.hero-inner{position:relative;z-index:2;display:grid;grid-template-columns:1fr 460px;gap:48px;align-items:center}
+.hero-eyebrow{display:inline-flex;align-items:center;gap:8px;padding:5px 14px;border-radius:20px;border:1px solid rgba(255,255,255,.15);font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:rgba(255,255,255,.7);margin-bottom:20px}
+.hero h1{color:#fff;margin-bottom:16px}
+.hero h1 em{font-style:italic;color:#ffd580}
+.hero-desc{font-size:16px;color:rgba(255,255,255,.65);line-height:1.75;margin-bottom:28px;max-width:480px}
+.hero-ctas{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:40px}
+.hero-trust{display:flex;gap:24px;flex-wrap:wrap;padding-top:24px;border-top:1px solid rgba(255,255,255,.1)}
+.trust-item .num{font-family:'PT Serif',serif;font-size:28px;font-weight:700;color:#ffd580;line-height:1}
+.trust-item .lbl{font-size:10px;color:rgba(255,255,255,.45);text-transform:uppercase;letter-spacing:1px;margin-top:4px}
+
+/* QUIZ CARD */
+.quiz-card{background:#fff;border-radius:var(--radius-lg);padding:32px;box-shadow:var(--shadow-lg)}
+.quiz-card h3{color:var(--brand);margin-bottom:18px;font-size:18px}
+.quiz-steps{display:flex;flex-direction:column;gap:12px}
+.quiz-step{display:flex;align-items:center;gap:14px;padding:14px 16px;background:var(--bg-alt);border-radius:var(--radius-md);border:1px solid var(--border);cursor:pointer;transition:all var(--dur)}
+.quiz-step:hover{border-color:var(--brand);background:#fff;box-shadow:var(--shadow-sm)}
+.quiz-step.active{border-color:var(--cta);background:#FFF5F5}
+.quiz-step-num{width:32px;height:32px;border-radius:50%;background:var(--border-light);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:13px;color:var(--muted);flex-shrink:0;transition:all var(--dur)}
+.quiz-step.active .quiz-step-num{background:var(--cta);color:#fff}
+.quiz-step-info h4{font-size:13px;color:var(--ink);margin-bottom:2px}
+.quiz-step-info p{font-size:11px;color:var(--light);line-height:1.4}
+.quiz-input{width:100%;padding:13px;border:2px solid var(--border);border-radius:var(--radius-sm);font-family:'Montserrat',sans-serif;font-size:16px;font-weight:600;color:var(--brand);text-align:center;outline:none;margin-top:12px}
+.quiz-input:focus{border-color:var(--cta)}
+.quiz-submit{width:100%;margin-top:6px}
+
+/* WHY */
+.why-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.why-card{background:#fff;border-radius:var(--radius-md);padding:28px 24px;border:1px solid var(--border);box-shadow:var(--shadow-sm);transition:all var(--dur)}
+.why-card:hover{transform:translateY(-4px);box-shadow:var(--shadow-md)}
+.why-icon{width:48px;height:48px;border-radius:var(--radius-sm);margin-bottom:16px;display:flex;align-items:center;justify-content:center;font-size:22px}
+.wi-1{background:#FEF3C7} .wi-2{background:#DBEAFE} .wi-3{background:#D1FAE5}
+.wi-4{background:#FCE7F3} .wi-5{background:#EDE9FE} .wi-6{background:#FEF2F2}
+.why-card h4{font-size:15px;font-weight:700;color:var(--ink);margin-bottom:6px}
+.why-card p{font-size:13px;line-height:1.65}
+
+/* CATALOG */
+.cat-tabs{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin-bottom:32px}
+.cat-tab{padding:9px 20px;border-radius:var(--radius-sm);border:1.5px solid var(--border);font-size:13px;font-weight:700;cursor:pointer;background:#fff;color:var(--muted);transition:all var(--dur);font-family:'Montserrat',sans-serif}
+.cat-tab.active,.cat-tab:hover{background:var(--brand);color:#fff;border-color:var(--brand)}
+.cat-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.cat-card{border-radius:var(--radius-md);overflow:hidden;border:1px solid var(--border);background:#fff;transition:all var(--dur)}
+.cat-card:hover{transform:translateY(-5px);box-shadow:var(--shadow-md)}
+.cat-img{height:180px;background-size:cover;background-position:center;position:relative}
+.cat-sticker{position:absolute;top:12px;right:12px;padding:3px 10px;border-radius:4px;font-size:10px;font-weight:700;color:#fff}
+.st-hit{background:var(--cta)} .st-pop{background:var(--brand)}
+.cat-body{padding:18px 20px}
+.cat-body h4{font-size:14px;font-weight:700;color:var(--ink);margin-bottom:4px}
+.cat-body p{font-size:12px;margin-bottom:14px}
+.cat-price{display:flex;align-items:baseline;gap:4px}
+.cat-price-label{font-size:9px;color:var(--light);text-transform:uppercase}
+.cat-price-val{font-family:'PT Serif',serif;font-size:20px;font-weight:700;color:var(--brand)}
+.cat-price-val span{font-size:11px;font-weight:400}
+
+/* STEPS */
+.steps-section{background:var(--brand);color:#fff}
+.steps-section h2{color:#fff}
+.steps-section .section-sub{color:rgba(255,255,255,.5)}
+.steps-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;position:relative}
+.steps-line{position:absolute;top:38px;left:calc(12.5% + 20px);right:calc(12.5% + 20px);height:1px;background:linear-gradient(90deg,rgba(255,255,255,.08),rgba(227,30,36,.4),rgba(255,255,255,.08))}
+.step-item{text-align:center;padding:0 12px;position:relative;z-index:1}
+.step-num{width:56px;height:56px;border-radius:50%;background:rgba(255,255,255,.06);border:1.5px solid rgba(255,255,255,.15);display:flex;align-items:center;justify-content:center;font-family:'PT Serif',serif;font-size:20px;font-weight:700;margin:0 auto 16px}
+.step-item:last-child .step-num{background:rgba(227,30,36,.2);border-color:rgba(227,30,36,.45)}
+.step-item h4{font-size:13px;font-weight:700;color:#fff;margin-bottom:6px}
+.step-item p{font-size:11px;color:rgba(255,255,255,.45);line-height:1.6}
+
+/* REVIEWS */
+.reviews-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.rev-card{background:#fff;border:1px solid var(--border);border-radius:var(--radius-md);padding:24px;transition:box-shadow var(--dur)}
+.rev-card:hover{box-shadow:var(--shadow-md)}
+.rev-header{display:flex;align-items:center;gap:12px;margin-bottom:14px}
+.rev-avatar{width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:700;color:#fff;flex-shrink:0}
+.av-1{background:#FC3F1D} .av-2{background:#00AAFF} .av-3{background:#1D2D8F}
+.rev-name{font-size:14px;font-weight:700;color:var(--ink)}
+.rev-stars{color:#FBBF24;font-size:13px;margin-left:auto}
+.rev-text{font-size:13px;color:var(--muted);line-height:1.7}
+.rev-source{display:inline-flex;align-items:center;gap:5px;padding:3px 10px;border-radius:12px;font-size:10px;font-weight:700;margin-top:12px}
+.src-ya{background:#FFF3F0;color:#FC3F1D} .src-av{background:#E8F6FF;color:#00AAFF}
+
+/* FORM SECTION */
+.form-section{background:var(--brand);position:relative;overflow:hidden}
+.form-section::after{content:'';position:absolute;width:500px;height:500px;border-radius:50%;background:radial-gradient(circle,rgba(227,30,36,.1),transparent 65%);bottom:-80px;left:-80px;pointer-events:none}
+.form-section h2{color:#fff}
+.form-section .section-sub{color:rgba(255,255,255,.5)}
+.form-grid{position:relative;z-index:1;display:grid;grid-template-columns:1fr 1fr;gap:52px;align-items:center}
+.form-checks{display:flex;flex-direction:column;gap:12px;margin-top:24px}
+.form-check{display:flex;align-items:center;gap:10px;color:rgba(255,255,255,.8);font-size:13px;font-weight:500}
+.form-check-icon{width:22px;height:22px;background:var(--cta);border-radius:5px;display:flex;align-items:center;justify-content:center;font-size:10px;color:#fff;flex-shrink:0}
+.form-card{background:#fff;border-radius:var(--radius-lg);padding:32px;box-shadow:var(--shadow-lg)}
+.form-card h3{color:var(--brand);margin-bottom:4px}
+.form-card-sub{font-size:12px;color:var(--muted);margin-bottom:20px}
+.fg{margin-bottom:12px}
+.fg label{display:block;font-size:10px;font-weight:700;color:var(--brand);text-transform:uppercase;letter-spacing:.5px;margin-bottom:5px}
+.fg input{width:100%;padding:12px 14px;border:1.5px solid var(--border);border-radius:var(--radius-sm);font-family:'Montserrat',sans-serif;font-size:14px;color:var(--ink);background:var(--bg-alt);outline:none;transition:border-color var(--dur)}
+.fg input:focus{border-color:var(--brand);background:#fff}
+.fg-row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+
+/* CONTACTS */
+.contacts-grid{display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start}
+.c-card{display:flex;gap:14px;padding:18px;background:var(--bg-alt);border-radius:var(--radius-md);border:1px solid var(--border);margin-bottom:10px}
+.c-ico{width:42px;height:42px;background:var(--brand);border-radius:var(--radius-sm);flex-shrink:0;display:flex;align-items:center;justify-content:center;color:#fff;font-size:18px}
+.c-info h4{font-size:10px;font-weight:700;color:var(--brand);text-transform:uppercase;letter-spacing:.5px;margin-bottom:3px}
+.c-info a,.c-info p{font-size:14px;font-weight:600;color:var(--ink)}
+.c-info p{font-weight:400;color:var(--muted)}
+.map-placeholder{background:linear-gradient(135deg,var(--border-light),#dce6ff);border-radius:var(--radius-lg);height:280px;display:flex;align-items:center;justify-content:center;border:1.5px dashed var(--border);color:var(--muted);font-size:14px}
+
+/* FOOTER */
+footer{background:#070f2b;padding:52px 0 24px;color:rgba(255,255,255,.5)}
+.footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:40px;padding-bottom:36px;border-bottom:1px solid rgba(255,255,255,.06);margin-bottom:24px}
+.footer-brand p{font-size:12px;line-height:1.7;margin-top:12px;max-width:260px}
+.footer-col h4{font-size:10px;font-weight:700;color:#fff;letter-spacing:2px;text-transform:uppercase;margin-bottom:14px}
+.footer-col a{display:block;font-size:12px;margin-bottom:8px;transition:color var(--dur)}
+.footer-col a:hover{color:#fff}
+.footer-bottom{display:flex;justify-content:space-between;align-items:center;font-size:11px}
+
+/* FLOAT BUTTONS */
+.float-btns{position:fixed;right:16px;bottom:24px;z-index:50;display:flex;flex-direction:column;gap:8px}
+.float-btn{width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:18px;box-shadow:var(--shadow-md);transition:transform var(--dur);font-weight:700}
+.float-btn:hover{transform:scale(1.1)}
+.fb-wa{background:#25D366;color:#fff} .fb-tg{background:#26A5E4;color:#fff}
+
+/* MODAL */
+.modal-overlay{display:none;position:fixed;inset:0;z-index:200;background:rgba(10,22,40,.6);align-items:center;justify-content:center;padding:20px}
+.modal-overlay.open{display:flex}
+.modal-box{background:#fff;border-radius:var(--radius-lg);padding:36px;width:100%;max-width:440px;box-shadow:var(--shadow-lg);position:relative}
+.modal-close{position:absolute;top:14px;right:18px;background:none;border:none;font-size:24px;color:var(--light);cursor:pointer}
+.modal-box h3{color:var(--brand);margin-bottom:4px}
+.modal-box .form-card-sub{margin-bottom:16px}
+.modal-thanks{display:none;text-align:center;padding:20px 0}
+.modal-thanks .icon{font-size:48px;margin-bottom:12px}
+.modal-thanks h3{color:#15be53}
+
+/* RESPONSIVE */
+@media(max-width:768px){
+  .topbar-inner{padding:0 16px;font-size:11px}
+  .topbar-badge{display:none}
+  .header-inner{height:auto;padding:8px 16px;flex-wrap:wrap;gap:8px}
+  .header-nav,.header-phone{display:none}
+  .burger{display:flex}
+  .mobile-nav{display:block}
+  .container{padding:0 20px}
+  section{padding:56px 0}
+  .section-header{margin-bottom:32px}
+  .hero{padding:48px 0 64px}
+  .hero-inner{grid-template-columns:1fr;gap:24px}
+  .hero-ctas{flex-direction:column}
+  .hero-ctas .btn{width:100%}
+  .hero-trust{gap:14px}
+  .quiz-card{padding:24px}
+  .why-grid{grid-template-columns:1fr;gap:12px}
+  .cat-grid{grid-template-columns:1fr;gap:14px}
+  .cat-tabs{overflow-x:auto;flex-wrap:nowrap;justify-content:flex-start;padding-bottom:8px}
+  .cat-tab{flex-shrink:0}
+  .steps-grid{grid-template-columns:1fr;gap:24px}
+  .steps-line{display:none}
+  .reviews-grid{grid-template-columns:1fr;gap:14px}
+  .form-grid,.contacts-grid{grid-template-columns:1fr;gap:28px}
+  .form-card{padding:24px}
+  .footer-grid{grid-template-columns:1fr 1fr;gap:22px}
+  .footer-bottom{flex-direction:column;gap:6px;text-align:center}
+  .float-btns{right:10px;bottom:16px}
+}
+</style>
+</head>
+<body>
+
+<!-- Float buttons -->
+<div class="float-btns">
+  <a href="https://wa.me/74732000000" target="_blank" class="float-btn fb-wa" title="WhatsApp">💬</a>
+  <a href="https://t.me/etalon_plast_vrn" target="_blank" class="float-btn fb-tg" title="Telegram">✈</a>
+</div>
+
+<!-- Topbar -->
+<div class="topbar">
+  <div class="topbar-inner">
+    <span><span class="topbar-badge">АКЦИЯ</span> Замер сегодня — метеостанция в подарок!</span>
+    <span>Пн–Сб 9:00–19:00 | <a href="tel:+74732612595" class="topbar-phone">261-25-95</a></span>
+  </div>
+</div>
+
+<!-- Header -->
+<header id="header">
+  <div class="container header-inner">
+    <a href="/" class="logo">
+      <div class="logo-icon">ЭП</div>
+      <span>Эталон Пласт</span>
+    </a>
+    <nav class="header-nav">
+      <a href="#why">Преимущества</a>
+      <a href="#catalog">Услуги</a>
+      <a href="#steps">Как работаем</a>
+      <a href="#reviews">Отзывы</a>
+      <a href="#contacts">Контакты</a>
+    </nav>
+    <div class="header-phone">
+      <a href="tel:+74732612595">261-25-95</a>
+      <small>Пн–Сб 9–19</small>
+    </div>
+    <button class="btn btn-primary" onclick="openModal()">Заказать звонок</button>
+    <button class="burger" onclick="document.getElementById('mobileNav').classList.add('open')">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<!-- Mobile nav -->
+<div class="mobile-nav" id="mobileNav" onclick="if(event.target===this)this.classList.remove('open')">
+  <div class="mobile-nav-panel">
+    <button class="mobile-nav-close" onclick="document.getElementById('mobileNav').classList.remove('open')">✕</button>
+    <a href="#why" onclick="document.getElementById('mobileNav').classList.remove('open')">Преимущества</a>
+    <a href="#catalog" onclick="document.getElementById('mobileNav').classList.remove('open')">Услуги</a>
+    <a href="#steps" onclick="document.getElementById('mobileNav').classList.remove('open')">Как работаем</a>
+    <a href="#reviews" onclick="document.getElementById('mobileNav').classList.remove('open')">Отзывы</a>
+    <a href="#contacts" onclick="document.getElementById('mobileNav').classList.remove('open')">Контакты</a>
+    <a href="tel:+74732612595" class="btn btn-primary">261-25-95</a>
+  </div>
+</div>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="container hero-inner">
+    <div>
+      <div class="hero-eyebrow">20 000+ семей · с 2008 года</div>
+      <h1>Пластиковые окна<br>в Воронеже — <em>от производителя</em></h1>
+      <p class="hero-desc">VEKA, REHAU, KBE. Замер бесплатно. Рассрочка 0%. Работаем без выходных.</p>
+      <div class="hero-ctas">
+        <button class="btn btn-primary btn-lg" onclick="openModal()">Рассчитать стоимость</button>
+        <a href="tel:+74732612595" class="btn btn-outline" style="color:#fff;border-color:rgba(255,255,255,.3)">Позвонить</a>
+      </div>
+      <div class="hero-trust">
+        <div class="trust-item"><div class="num">2008</div><div class="lbl">Год основания</div></div>
+        <div class="trust-item"><div class="num">20 000+</div><div class="lbl">Семей доверились</div></div>
+        <div class="trust-item"><div class="num">300+</div><div class="lbl">Объектов сдано</div></div>
+        <div class="trust-item"><div class="num">0 ₽</div><div class="lbl">Замер</div></div>
+      </div>
+    </div>
+    <!-- Quick quiz -->
+    <div class="quiz-card">
+      <h3>Предварительный расчёт за 3 шага</h3>
+      <div class="quiz-steps" id="quiz">
+        <div class="quiz-step active" data-step="1">
+          <div class="quiz-step-num">1</div>
+          <div class="quiz-step-info"><h4>Тип конструкции</h4><p>Окно, балконный блок, остекление</p></div>
+        </div>
+        <div class="quiz-step" data-step="2">
+          <div class="quiz-step-num">2</div>
+          <div class="quiz-step-info"><h4>Размер (примерно)</h4><p>Ширина × Высота в мм</p></div>
+        </div>
+        <div class="quiz-step" data-step="3">
+          <div class="quiz-step-num">3</div>
+          <div class="quiz-step-info"><h4>Ваш телефон</h4><p>Для отправки расчёта</p></div>
+        </div>
+      </div>
+      <input type="text" class="quiz-input" placeholder="Введите телефон" id="quizPhone">
+      <button class="btn btn-primary quiz-submit" onclick="submitQuiz()">Получить расчёт</button>
+    </div>
+  </div>
+</section>
+
+<!-- Why us -->
+<section id="why">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-label">Почему мы</span>
+      <h2>Почему выгодно заказывать у нас?</h2>
+      <p class="section-sub">Компания «Эталон Пласт» занимается установкой пластиковых окон с <strong>2008 года</strong>. Более 20 000 семей Воронежа и области доверили нам замену окон. Выполнено работ на 300+ объектах.</p>
+    </div>
+    <div class="why-grid">
+      <div class="why-card"><div class="why-icon wi-1">❄️</div><h4>Энергосберегающие стёкла</h4><p>Стеклопакеты с низкоэмиссионным покрытием сохраняют тепло зимой и прохладу летом — экономия на отоплении до 30%.</p></div>
+      <div class="why-card"><div class="why-icon wi-2">🔇</div><h4>Защита от шума</h4><p>Многокамерная конструкция надёжно поглощает уличный шум — наслаждайтесь тишиной даже на оживлённой улице.</p></div>
+      <div class="why-card"><div class="why-icon wi-3">🌡️</div><h4>Надёжная теплоизоляция</h4><p>Высокие теплоизоляционные свойства: летом сохраняют прохладу, зимой поддерживают комфортную температуру.</p></div>
+      <div class="why-card"><div class="why-icon wi-4">🌿</div><h4>Экологическая безопасность</h4><p>Только безопасные материалы, не выделяющие токсичных веществ. Сертифицированный ПВХ-профиль.</p></div>
+      <div class="why-card"><div class="why-icon wi-5">📐</div><h4>Монтаж по ГОСТ 30971-2012</h4><p>Установка в соответствии с государственными стандартами — гарантия долговечности и герметичности.</p></div>
+      <div class="why-card"><div class="why-icon wi-6">🔧</div><h4>Фурнитура от лидеров</h4><p>Высококачественная фурнитура Siegenia, Roto, Maco — плавный ход, долгий срок службы.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- Catalog -->
+<section id="catalog" style="background:var(--bg-alt)">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-label">Услуги</span>
+      <h2>Что мы предлагаем</h2>
+    </div>
+    <div class="cat-tabs">
+      <button class="cat-tab active">Окна ПВХ</button>
+      <button class="cat-tab">Балконные блоки</button>
+      <button class="cat-tab">Остекление балконов</button>
+      <button class="cat-tab">Отделка лоджий</button>
+      <button class="cat-tab">Загородные дома</button>
+    </div>
+    <div class="cat-grid">
+      <div class="cat-card">
+        <div class="cat-img" style="background-image:url('https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=600&q=80')"><span class="cat-sticker st-hit">ХИТ</span></div>
+        <div class="cat-body">
+          <h4>Окно ПВХ VEKA</h4>
+          <p>Одностворчатое, 2-камерный стеклопакет</p>
+          <div class="cat-price"><span class="cat-price-label">от</span><span class="cat-price-val">7 500 <span>₽</span></span></div>
+        </div>
+      </div>
+      <div class="cat-card">
+        <div class="cat-img" style="background-image:url('https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?auto=format&fit=crop&w=600&q=80')"><span class="cat-sticker st-pop">ПОПУЛЯРНОЕ</span></div>
+        <div class="cat-body">
+          <h4>Балконный блок REHAU</h4>
+          <p>Окно + дверь, 2-камерный стеклопакет</p>
+          <div class="cat-price"><span class="cat-price-label">от</span><span class="cat-price-val">18 900 <span>₽</span></span></div>
+        </div>
+      </div>
+      <div class="cat-card">
+        <div class="cat-img" style="background-image:url('https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=600&q=80')">
+        </div>
+        <div class="cat-body">
+          <h4>Остекление балкона KBE</h4>
+          <p>Холодное/тёплое остекление «под ключ»</p>
+          <div class="cat-price"><span class="cat-price-label">от</span><span class="cat-price-val">24 500 <span>₽</span></span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Steps -->
+<section class="steps-section" id="steps">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-label" style="color:#ffd580">Процесс</span>
+      <h2>4 шага до новых окон</h2>
+      <p class="section-sub">От звонка до готового результата — в среднем 7 дней</p>
+    </div>
+    <div class="steps-grid">
+      <div class="steps-line"></div>
+      <div class="step-item">
+        <div class="step-num">1</div>
+        <h4>Заявка</h4>
+        <p>Оставляете заявку на сайте или звоните нам. Консультация — 5 минут.</p>
+      </div>
+      <div class="step-item">
+        <div class="step-num">2</div>
+        <h4>Замер</h4>
+        <p>Выезд замерщика в удобное время. Точный расчёт стоимости. Бесплатно.</p>
+      </div>
+      <div class="step-item">
+        <div class="step-num">3</div>
+        <h4>Изготовление</h4>
+        <p>Производство окон на современном оборудовании. Строгий контроль качества.</p>
+      </div>
+      <div class="step-item">
+        <div class="step-num">4</div>
+        <h4>Монтаж</h4>
+        <p>Установка по ГОСТ. Уборка после монтажа. Гарантия 5 лет.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Reviews -->
+<section id="reviews">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-label">Отзывы</span>
+      <h2>Что говорят клиенты</h2>
+    </div>
+    <div class="reviews-grid">
+      <div class="rev-card">
+        <div class="rev-header">
+          <div class="rev-avatar av-1">О</div>
+          <div class="rev-name">Ольга</div>
+          <div class="rev-stars">★★★★★</div>
+        </div>
+        <p class="rev-text">Хочу выразить огромную благодарность монтажникам за высокое качество монтажа и профессионализм. Очень приятно получить высокое качество работы по привлекательной цене. Буду рекомендовать!</p>
+        <span class="rev-source src-ya">Яндекс</span>
+      </div>
+      <div class="rev-card">
+        <div class="rev-header">
+          <div class="rev-avatar av-2">Т</div>
+          <div class="rev-name">Татьяна</div>
+          <div class="rev-stars">★★★★★</div>
+        </div>
+        <p class="rev-text">Ставили окна в первый раз после покупки квартиры. Мастера приехали, поставили окна быстро и качественно, весь мусор собрали, подмели. Вежливые, грамотные специалисты.</p>
+        <span class="rev-source src-av">Авито</span>
+      </div>
+      <div class="rev-card">
+        <div class="rev-header">
+          <div class="rev-avatar av-3">А</div>
+          <div class="rev-name">Александр</div>
+          <div class="rev-stars">★★★★★</div>
+        </div>
+        <p class="rev-text">Заказывал остекление балкона и два окна. Всё сделали за 4 дня. Цена приятно удивила — ниже чем у конкурентов на 15%. Качество на высоте, третий год — никаких нареканий.</p>
+        <span class="rev-source src-ya">Яндекс</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Form -->
+<section class="form-section" id="form">
+  <div class="container">
+    <div class="form-grid">
+      <div>
+        <h2>Готовы обновить окна?</h2>
+        <p class="section-sub">Оставьте заявку на бесплатный замер. Перезвоним в течение 10 минут в рабочее время.</p>
+        <div class="form-checks">
+          <div class="form-check"><span class="form-check-icon">✓</span>Бесплатный выезд замерщика</div>
+          <div class="form-check"><span class="form-check-icon">✓</span>Точный расчёт стоимости за 30 минут</div>
+          <div class="form-check"><span class="form-check-icon">✓</span>Рассрочка 0% до 6 месяцев</div>
+          <div class="form-check"><span class="form-check-icon">✓</span>Гарантия 5 лет на монтаж</div>
+        </div>
+      </div>
+      <div class="form-card">
+        <h3>Заявка на замер</h3>
+        <p class="form-card-sub">Заполните форму — мы свяжемся с вами</p>
+        <form id="leadForm" onsubmit="submitForm(event)">
+          <div class="fg"><label>Ваше имя</label><input type="text" name="name" placeholder="Иван Иванов"></div>
+          <div class="fg"><label>Телефон *</label><input type="tel" name="phone" placeholder="+7 (___) ___-__-__" required></div>
+          <div class="fg-row">
+            <div class="fg"><label>Тип услуги</label><input type="text" name="type" placeholder="Окна / Балкон"></div>
+            <div class="fg"><label>Город</label><input type="text" name="city" placeholder="Воронеж"></div>
+          </div>
+          <button type="submit" class="btn btn-primary" style="width:100%;margin-top:8px">Отправить заявку</button>
+          <p style="font-size:10px;color:var(--light);text-align:center;margin-top:10px">Нажимая кнопку, вы соглашаетесь с обработкой персональных данных</p>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Contacts -->
+<section id="contacts">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-label">Контакты</span>
+      <h2>Как с нами связаться</h2>
+    </div>
+    <div class="contacts-grid">
+      <div class="c-cards">
+        <div class="c-card">
+          <div class="c-ico">📞</div>
+          <div class="c-info">
+            <h4>Телефоны</h4>
+            <a href="tel:+74732612595">8 (473) 261-25-95</a><br>
+            <a href="tel:+74732612596">8 (473) 261-25-96</a>
+          </div>
+        </div>
+        <div class="c-card">
+          <div class="c-ico">📍</div>
+          <div class="c-info">
+            <h4>Адрес</h4>
+            <p>г. Воронеж, Ленинский проспект, д. 20/1</p>
+          </div>
+        </div>
+        <div class="c-card">
+          <div class="c-ico">🕐</div>
+          <div class="c-info">
+            <h4>Режим работы</h4>
+            <p>Пн–Сб: 9:00 – 19:00<br>Воскресенье: выходной</p>
+          </div>
+        </div>
+        <div class="c-card">
+          <div class="c-ico">✉️</div>
+          <div class="c-info">
+            <h4>Email</h4>
+            <a href="mailto:admin@окна-в-воронеже.рф">admin@окна-в-воронеже.рф</a>
+          </div>
+        </div>
+      </div>
+      <div class="map-placeholder">
+        📍 Карта: Ленинский проспект, 20/1, Воронеж
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="logo" style="color:#fff">
+          <div class="logo-icon" style="background:var(--cta)">ЭП</div>
+          <span>Эталон Пласт</span>
+        </div>
+        <p>Установка пластиковых окон в Воронеже с 2008 года. VEKA, REHAU, KBE. Более 20 000 довольных клиентов.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Услуги</h4>
+        <a href="#catalog">Пластиковые окна</a>
+        <a href="#catalog">Балконные блоки</a>
+        <a href="#catalog">Остекление балконов</a>
+        <a href="#catalog">Отделка лоджий</a>
+      </div>
+      <div class="footer-col">
+        <h4>Компания</h4>
+        <a href="#why">О нас</a>
+        <a href="#reviews">Отзывы</a>
+        <a href="#contacts">Контакты</a>
+      </div>
+      <div class="footer-col">
+        <h4>Документы</h4>
+        <a href="#">Политика конфиденциальности</a>
+        <a href="#">Гарантийные обязательства</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; 2026 Эталон Пласт. Все права защищены.</span>
+      <span>окна-в-воронеже.рф</span>
+    </div>
+  </div>
+</footer>
+
+<!-- Modal -->
+<div class="modal-overlay" id="modalOverlay" onclick="if(event.target===this)closeModal()">
+  <div class="modal-box">
+    <button class="modal-close" onclick="closeModal()">✕</button>
+    <div id="modalForm">
+      <h3>Заказать звонок</h3>
+      <p class="form-card-sub">Перезвоним в течение 10 минут</p>
+      <form onsubmit="submitModal(event)">
+        <div class="fg"><label>Ваше имя</label><input type="text" name="name" placeholder="Иван"></div>
+        <div class="fg"><label>Телефон *</label><input type="tel" name="phone" placeholder="+7 (___) ___-__-__" required></div>
+        <button type="submit" class="btn btn-primary" style="width:100%">Жду звонка!</button>
+      </form>
+    </div>
+    <div class="modal-thanks" id="modalThanks">
+      <div class="icon">✅</div>
+      <h3>Заявка принята!</h3>
+      <p style="color:var(--muted);margin-top:8px">Мы перезвоним вам в ближайшее время.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+// Header scroll shadow
+window.addEventListener('scroll', () => {
+  document.getElementById('header').classList.toggle('scrolled', window.scrollY > 10);
+});
+
+// Modal
+function openModal() {
+  document.getElementById('modalOverlay').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeModal() {
+  document.getElementById('modalOverlay').classList.remove('open');
+  document.body.style.overflow = '';
+  // Reset modal state after close
+  setTimeout(() => {
+    document.getElementById('modalForm').style.display = '';
+    document.getElementById('modalThanks').style.display = 'none';
+  }, 300);
+}
+function submitModal(e) {
+  e.preventDefault();
+  document.getElementById('modalForm').style.display = 'none';
+  document.getElementById('modalThanks').style.display = 'block';
+  setTimeout(closeModal, 2500);
+}
+
+// Lead form
+function submitForm(e) {
+  e.preventDefault();
+  const btn = e.target.querySelector('button');
+  btn.textContent = '✓ Заявка отправлена!';
+  btn.style.background = '#15be53';
+  setTimeout(() => {
+    btn.textContent = 'Отправить заявку';
+    btn.style.background = '';
+    e.target.reset();
+  }, 3000);
+}
+
+// Quiz
+function submitQuiz() {
+  const phone = document.getElementById('quizPhone').value;
+  if (!phone) { alert('Введите телефон'); return; }
+  const btn = document.querySelector('.quiz-submit');
+  btn.textContent = '✓ Отправлено!';
+  btn.style.background = '#15be53';
+  setTimeout(() => {
+    btn.textContent = 'Получить расчёт';
+    btn.style.background = '';
+    document.getElementById('quizPhone').value = '';
+  }, 3000);
+}
+
+// Catalog tabs
+document.querySelectorAll('.cat-tab').forEach(tab => {
+  tab.addEventListener('click', function() {
+    document.querySelectorAll('.cat-tab').forEach(t => t.classList.remove('active'));
+    this.classList.add('active');
+  });
+});
+</script>
+
+</body>
+</html>
