@@ -2,12 +2,11 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>EP_9E9BBAEC9B</Id>
-    <DateBegin>15.05.2026</DateBegin>
-    <DateEnd>14.06.2026</DateEnd>
+    <DateBegin>13.05.2026</DateBegin>
+    <DateEnd>12.06.2026</DateEnd>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -58,9 +57,13 @@
  
  Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2000</Price>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <Promo />
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Region>Воронежская обл., Нововоронеж</Region>
+        <Bid>4.7</Bid>
+      </Item>
+    </PromoManualOptions>
     <Address>Воронежская обл., Нововоронеж</Address>
     <Images>
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.VaprS7aw-UNd_HtOTXJz3lbr-0Pb4vFJ3Q.x0d2yCCYBpx58IAjTkeDg5OABNBn40pT-yEYTPv7L1c" />
@@ -76,12 +79,11 @@
   </Ad>
   <Ad>
     <Id>EP_NM_9493B3BC</Id>
-    <DateBegin>15.05.2026</DateBegin>
-    <DateEnd>14.06.2026</DateEnd>
+    <DateBegin>13.05.2026</DateBegin>
+    <DateEnd>12.06.2026</DateEnd>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -127,9 +129,13 @@
  
  Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <Promo />
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Region>Воронежская обл., Новохопёрск</Region>
+        <Bid>4.7</Bid>
+      </Item>
+    </PromoManualOptions>
     <Address>Воронежская обл., Новохопёрск</Address>
     <Images>
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.qaO_ZbawBUqJ0odH4X_OzoTFB0oPzA1ACQ.wPzJigirSTslKIET-lMGjnDN6_kLviFqRNeuGCYfPJM" />
@@ -144,12 +150,11 @@
   </Ad>
   <Ad>
     <Id>EP_844E88D09A</Id>
-    <DateBegin>15.05.2026</DateBegin>
-    <DateEnd>14.06.2026</DateEnd>
+    <DateBegin>13.05.2026</DateBegin>
+    <DateEnd>12.06.2026</DateEnd>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -203,9 +208,13 @@
  
  Добавьте объявление в Избранное, чтобы всегда был под рукой прямой выход на заводские цены без переплат.</Description>
     <Price>3000</Price>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <Promo />
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Region>Воронежская обл., Россошь</Region>
+        <Bid>4.7</Bid>
+      </Item>
+    </PromoManualOptions>
     <Address>Воронежская обл., Россошь</Address>
     <Images>
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.oK-XcLawDEahx45L22av_63QDkYn2QRMIQ.Fi_tyV93L7I3hxDGm-ucMZaXHlyI15aDT520dS9ZwbA" />
@@ -222,12 +231,11 @@
   </Ad>
   <Ad>
     <Id>EP_NM_F9F31F7D</Id>
-    <DateBegin>15.05.2026</DateBegin>
-    <DateEnd>14.06.2026</DateEnd>
+    <DateBegin>13.05.2026</DateBegin>
+    <DateEnd>12.06.2026</DateEnd>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -273,9 +281,13 @@
  
  Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2000</Price>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <Promo />
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Region>Воронежская обл., Богучар</Region>
+        <Bid>4.7</Bid>
+      </Item>
+    </PromoManualOptions>
     <Address>Воронежская обл., Богучар</Address>
     <Images>
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.dY5Ux7aw2WdicFtqMqJw4W9n22fkbtFt4g.YWKaLfQgmrlJ1cAXzYKCbY3Vxx_SVmGEtQUuPh-U7qY" />
@@ -290,12 +302,11 @@
   </Ad>
   <Ad>
     <Id>EP_NM_27F35C42</Id>
-    <DateBegin>15.05.2026</DateBegin>
-    <DateEnd>14.06.2026</DateEnd>
+    <DateBegin>13.05.2026</DateBegin>
+    <DateEnd>12.06.2026</DateEnd>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -341,9 +352,13 @@
  
  Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>3500</Price>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <Promo />
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Region>Воронежская обл., с. Репьёвка</Region>
+        <Bid>4.7</Bid>
+      </Item>
+    </PromoManualOptions>
     <Address>Воронежская обл., с. Репьёвка</Address>
     <Images>
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.abiI5bawxVG-Ukdc1sA91rNFx1E4TM1bPg.Zzq0zmS0Mk24mewxRK6PB84VvpGUYeZdwQEYQXciSzM" />
@@ -358,12 +373,11 @@
   </Ad>
   <Ad>
     <Id>EP_636C3A4477</Id>
-    <DateBegin>15.05.2026</DateBegin>
-    <DateEnd>14.06.2026</DateEnd>
+    <DateBegin>13.05.2026</DateBegin>
+    <DateEnd>12.06.2026</DateEnd>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -415,9 +429,13 @@
  Мы на связи с 9.30 до 18.00 по будням!!!!
  Добавьте объявление в Избранное, чтобы всегда был под рукой прямой выход на заводские цены без переплат.</Description>
     <Price>2500</Price>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <Promo />
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Region>Воронежская обл., Лиски</Region>
+        <Bid>4.7</Bid>
+      </Item>
+    </PromoManualOptions>
     <Address>Воронежская обл., Лиски</Address>
     <Images>
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.jdCyn7awITmEKKM0pMnRjIg_IzkCNikzBA.w-OlQ6MXJZX1zgy87Sz-_u3EEMTx61eVNn20JZyo_tQ" />
@@ -434,12 +452,11 @@
   </Ad>
   <Ad>
     <Id>EP_D7B66AAEE9</Id>
-    <DateBegin>15.05.2026</DateBegin>
-    <DateEnd>14.06.2026</DateEnd>
+    <DateBegin>13.05.2026</DateBegin>
+    <DateEnd>12.06.2026</DateEnd>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -490,9 +507,13 @@
 
 Добавьте в Избранное — всегда будет быстрый доступ к заводским ценам.</Description>
     <Price>5000</Price>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <Promo />
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Region>Воронежская обл., Бобров</Region>
+        <Bid>4.7</Bid>
+      </Item>
+    </PromoManualOptions>
     <Address>Воронежская обл., Бобров</Address>
     <Images>
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.4iH3a7awTsjB3MzFv0ylT8zLTMhHwkbCQQ.wucbubpFI7X74ZEUbBOFVVbZVUhxMBxJK-hqWUGRyXY" />
@@ -509,12 +530,11 @@
   </Ad>
   <Ad>
     <Id>EP_1A176CFFC9</Id>
-    <DateBegin>15.05.2026</DateBegin>
-    <DateEnd>14.06.2026</DateEnd>
+    <DateBegin>13.05.2026</DateBegin>
+    <DateEnd>12.06.2026</DateEnd>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -561,9 +581,13 @@
  
  Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2500</Price>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <Promo />
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Region>Воронежская обл., Калач</Region>
+        <Bid>4.7</Bid>
+      </Item>
+    </PromoManualOptions>
     <Address>Воронежская обл., Калач</Address>
     <Images>
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.qa0jZbawBUQV0odJfR-nwRjFB0STzA1OlQ.9YFvUZxGNckKnfe6hU0jbVrYug9McQ2A6pp36eQipvs" />
@@ -578,12 +602,11 @@
   </Ad>
   <Ad>
     <Id>EP_C9CBC66619</Id>
-    <DateBegin>15.05.2026</DateBegin>
-    <DateEnd>14.06.2026</DateEnd>
+    <DateBegin>13.05.2026</DateBegin>
+    <DateEnd>12.06.2026</DateEnd>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -635,9 +658,13 @@
  
  Добавьте объявление в Избранное, чтобы всегда был под рукой прямой выход на заводские цены без переплат.</Description>
     <Price>1500</Price>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <Promo />
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Region>Воронежская обл., Павловск</Region>
+        <Bid>4.7</Bid>
+      </Item>
+    </PromoManualOptions>
     <Address>Воронежская обл., Павловск</Address>
     <Images>
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.rlawQ7awAr-G9ICy4BX-Io3jAL8A6gq1Bg.UCHrN--41WRpP6AS4RmxSZYR6dudxVAGVdeBha6kI6U" />
@@ -651,12 +678,11 @@
   </Ad>
   <Ad>
     <Id>EP_NM_E441E170</Id>
-    <DateBegin>15.05.2026</DateBegin>
-    <DateEnd>14.06.2026</DateEnd>
+    <DateBegin>13.05.2026</DateBegin>
+    <DateEnd>12.06.2026</DateEnd>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -702,9 +728,13 @@
  
  Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>3500</Price>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <PromoManualOptions>4.7|1500</PromoManualOptions>
-    <Promo />
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Region>Воронежская обл., рп. Давыдовка</Region>
+        <Bid>4.7</Bid>
+      </Item>
+    </PromoManualOptions>
     <Address>Воронежская обл., рп. Давыдовка</Address>
     <Images>
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.F5ivv7awu3GZCDl8jY8B9JQfuXEfFrN7GQ.G3DqHwss4qFMOKV7bWfU-1FCskoaYiI6EBDT5B7Qpns" />
@@ -719,12 +749,11 @@
   </Ad>
   <Ad>
     <Id>EP_NM_937D6DE3</Id>
-    <DateBegin>15.05.2026</DateBegin>
-    <DateEnd>14.06.2026</DateEnd>
+    <DateBegin>13.05.2026</DateBegin>
+    <DateEnd>12.06.2026</DateEnd>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -763,9 +792,13 @@
 
 Сохраните в Избранное!</Description>
     <Price>2950</Price>
-    <PromoManualOptions>Воронеж|4.7|1500</PromoManualOptions>
-    <PromoManualOptions>Воронеж|4.7|1500</PromoManualOptions>
-    <Promo />
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Region>Воронеж, Ленинский район</Region>
+        <Bid>4.7</Bid>
+      </Item>
+    </PromoManualOptions>
     <Address>Воронеж, Ленинский район</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/воронеж_okno_1_cf02fb.jpg" />
@@ -780,13 +813,12 @@
   </Ad>
   <Ad>
     <Id>EP_NM_d36bbeb44b</Id>
-    <DateBegin>15.05.2026</DateBegin>
-    <DateEnd>14.06.2026</DateEnd>
+    <DateBegin>13.05.2026</DateBegin>
+    <DateEnd>12.06.2026</DateEnd>
     <AvitoId>8058648719</AvitoId>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -832,8 +864,13 @@
 
 Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2000</Price>
-    <PromoManualOptions>6|1500</PromoManualOptions>
-    <Promo />
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Region>Воронежская обл., Острогожск</Region>
+        <Bid>4.7</Bid>
+      </Item>
+    </PromoManualOptions>
     <Address>Воронежская обл., Острогожск</Address>
     <Images>
       <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_острогожск_okno_1_placeholder.jpg" />
@@ -847,9 +884,9 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>EP_41587818F9</Id>
-    <DateBegin>15.05.2026</DateBegin>
-    <DateEnd>14.06.2026</DateEnd>
+    <Id>EP_TEST_C284B441</Id>
+    <DateBegin>21.05.2026</DateBegin>
+    <DateEnd>20.06.2026</DateEnd>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
@@ -858,51 +895,53 @@
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
     <MaterialType>Пластик</MaterialType>
-    <ProfileBrand>Deceuninck</ProfileBrand>
-    <BusinessSubType>Откидное</BusinessSubType>
+    <ProfileBrand>KBE</ProfileBrand>
+    <OpeningType>Поворотно-откидное</OpeningType>
     <AdType>Товар от производителя</AdType>
     <OperationType>Продам</OperationType>
     <Condition>Новое</Condition>
-    <Title>Окна ПВХ без монтажа — Коминтерновский район</Title>
-    <Description>Нужны окна без переплаты за монтаж?
+    <Title>Окна ПВХ по заводской цене — Воронеж</Title>
+    <Description>Платите заводскую цену, а не наценку магазина!
 
-ПИШИТЕ В ЧАТ — ответим быстро!
+ПИШИТЕ В ЧАТ — рассчитаем за 5 минут.
 
-Производим окна ПВХ в Воронеже с 2007 года. Продаём напрямую — без посредников и наценки магазина.
+«Эталон Пласт» — с 2007 года поставляем окна с заводов VEKA, REHAU, KBE, Хагель напрямую. Никаких посредников — только заводская цена + доставка.
 
-Если у вас есть своя бригада или вы устанавливаете сами — берите окна у нас. Экономия до 40% по сравнению с «под ключ».
+Почему у нас дёшево:
+→ Вы платите заводскую цену — без накруток продавца
+→ Профили VEKA, REHAU, KBE, Хагель на любой бюджет
+→ Фурнитура Maco, Roto, Reze — без компромиссов
+→ Доставка до объекта или самовывоз со склада в Воронеже
+→ Счёт с НДС для организаций
 
-Наши преимущества:
+Наш склад: г. Воронеж, Ленинский проспект, д. 20/1
 
-Без лишних услуг: берёте только то, что нужно.
-Профили на выбор: VEKA, REHAU, KBE, Хагель, Provedal — эконом, стандарт, премиум.
-Гарантия сроков: договорились — выполнили.
-Фурнитура Maco, Roto, Reze, Esse — долговечная и надёжная.
-Доставка на объект или удобный самовывоз.
-Безналичный расчёт с НДС для организаций.
+Напишите в чат — рассчитаем за 5 минут:
+→ Ширина x Высота
+→ Тип открывания
+→ Нужны ли подоконники/отливы
 
-*окно 500x500 глухое — от 1 300 р.
-
-🚛 ДОСТАВКА ПО ВОРОНЕЖУ И ОБЛАСТИ
-
-Заказываете меньше 5 окон? Уточните стоимость доставки в чате — найдём решение!
-
-📩 НАПИШИТЕ НАМ В ЧАТ — ЭТО БЫСТРЕЕ!</Description>
-    <Price>2650</Price>
-    <Promo />
-    <PromoManualOptions>Воронеж|4.7|1500</PromoManualOptions>
-    <Address>Воронеж, Коминтерновский район</Address>
+Добавьте в Избранное — всегда под рукой заводская цена.</Description>
+    <Price>3100</Price>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Region>Воронеж, Ленинский проспект, д. 20/1</Region>
+        <Bid>4.7</Bid>
+      </Item>
+    </PromoManualOptions>
+    <Address>Воронеж, Ленинский проспект, д. 20/1</Address>
     <Images>
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%BA%D0%BE%D0%BC%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_okno_0_63b6db.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%BA%D0%BE%D0%BC%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_okno_1_ad51c8.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%BA%D0%BE%D0%BC%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_okno_2_69f71b.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%BA%D0%BE%D0%BC%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_okno_3_e0a308.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%BA%D0%BE%D0%BC%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_okno_4_e8ab7b.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%BA%D0%BE%D0%BC%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_okno_5_9c9201.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%BA%D0%BE%D0%BC%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_okno_6_0b3239.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%BA%D0%BE%D0%BC%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_okno_7_d86ad1.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%BA%D0%BE%D0%BC%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_okno_8_8cc1c3.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%BA%D0%BE%D0%BC%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_okno_9_3fcc9f.jpg" />
+      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_1_cf02fb.jpg" />
+      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_2_ed46bb.jpg" />
+      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_3_85a765.jpg" />
+      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_4_ef9678.jpg" />
+      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_5_63fcc3.jpg" />
+      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_6_692d8d.jpg" />
+      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_7_c2da43.jpg" />
+      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_8_013dca.jpg" />
+      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_9_d17ba1.jpg" />
+      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_10_803d78.jpg" />
     </Images>
   </Ad>
 </Ads>
