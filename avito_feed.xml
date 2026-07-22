@@ -446,11 +446,17 @@
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Москитные сетки и фурнитура для окон</GoodsSubType>
-    <ProductsType>Москитные сетки</ProductsType>
-    <ProductsSubType>Готовая москитная сетка</ProductsSubType>
-    <SuitableFor>Окон | Балконов</SuitableFor>
-    <NetType>Антимоскитная | Антикошка</NetType>
-    <NetForm>Рамная</NetForm>
+    <ProductType>Москитные сетки</ProductType>
+    <ProductSubType>Готовая москитная сетка</ProductSubType>
+    <PurposeFor>
+      <Option>Окон</Option>
+      <Option>Балконов</Option>
+    </PurposeFor>
+    <MeshType>
+      <Option>Антимоскитная</Option>
+      <Option>Антикошка</Option>
+    </MeshType>
+    <MeshShape>Рамная</MeshShape>
     <AdType>Товар от производителя</AdType>
     <OperationType>Продам</OperationType>
     <Condition>Новое</Condition>
