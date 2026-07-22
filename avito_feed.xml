@@ -2,11 +2,11 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>EP_9E9BBAEC9B</Id>
-    <DateBegin>13.05.2026</DateBegin>
-    <DateEnd>12.06.2026</DateEnd>
+    <DateBegin>15.05.2026</DateBegin>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -57,13 +57,6 @@
  
  Сохраните в Избранное, чтобы не потерять.</Description>
     <Price>2000</Price>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Region>Воронежская обл., Нововоронеж</Region>
-        <Bid>4.7</Bid>
-      </Item>
-    </PromoManualOptions>
     <Address>Воронежская обл., Нововоронеж</Address>
     <Images>
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.VaprS7aw-UNd_HtOTXJz3lbr-0Pb4vFJ3Q.x0d2yCCYBpx58IAjTkeDg5OABNBn40pT-yEYTPv7L1c" />
@@ -76,85 +69,22 @@
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.yZc9_LawZX4LS-dzI_Pm3ABcZ36NVW10iw.zXQIdbfzVB7L-6f2txVamEe5y85TeMncZNBsLOQ4qDo" />
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.L7Ot2bawg1qbbgFX_7koxZB5gVodcItQGw._MTfLny96o_54HKT03fRWhHXcOJoUXx01s--aTufx_M" />
     </Images>
-  </Ad>
-  <Ad>
-    <Id>EP_NM_9493B3BC</Id>
-    <DateBegin>13.05.2026</DateBegin>
-    <DateEnd>12.06.2026</DateEnd>
-    <AllowEmail>Нет</AllowEmail>
-    <ManagerName>Эталон Пласт</ManagerName>
-    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <Category>Ремонт и строительство</Category>
-    <GoodsType>Окна и балконы</GoodsType>
-    <GoodsSubType>Окна</GoodsSubType>
-    <MaterialType>Пластик</MaterialType>
-    <ProfileBrand>KBE</ProfileBrand>
-    <BusinessSubType>Откидное</BusinessSubType>
-    <AdType>Товар от производителя</AdType>
-    <OperationType>Продам</OperationType>
-    <Condition>Новое</Condition>
-    <Title>Пластиковые окна без монтажа — Новохоперск</Title>
-    <Description>Строите дом или делаете ремонт?
- 
- НЕ ПЕРЕПЛАЧИВАЙТЕ — берите окна у производителя!
- 🚛 ДОСТАВКА В ВАШ ГОРОД КАЖДУЮ НЕДЕЛЮ!
- 
- Продаем окна ПВХ в Воронеже с 2007 года напрямую с завода!
- 
- Если у вас есть своя бригада или вы устанавливаете сами — берите окна у нас. Экономия до 40% по сравнению с «под ключ».
- 
- Почему с нами удобно работать прорабам и частным мастерам:
- 
- Никакого навязывания: Нужны просто рамы со стеклопакетами? Сделаем.
- Любые комплектации: Профили KBE, ХАГЕЛЬ. От эконом для дачи до премиума с ламинацией.
- Точно в срок: Сказали готово в среду — значит, в среду.
- Фурнитура: Esse, Vorne, Reze.
- Логистика: Самовывоз или наша доставка прямо на объект по Воронежу и области.
- Работаем с частными лицами и организациями (оплата по счету с НДС)
- Наш склад и офис находится в Воронеже, но это не повод переплачивать логистам!
- Дистанционный договор для других городов (оплата на счет организации по QR-коду)
- 
- *окно 700x1100 — от 3100 р. (глухое)
- 
- ✅ Бесплатная доставка заводским транспортом — от 3 изделий в вашем заказе.
- Привезём прямо на объект, бережно упакованными, без повреждений.
- 
- Заказываете меньше 3 окон? Уточните стоимость доставки в чате — найдём решение!
- Напишите в чат — рассчитаем быстро:
- 1. Размеры (Ш x В)
- 2. Тип открывания
- 3. Профиль (если есть предпочтения)
- 
- Ответим в течение 15 минут с точной ценой!
- 
- Сохраните в Избранное, чтобы не потерять.</Description>
-    <Price>2500</Price>
+  
     <Promo>Manual</Promo>
     <PromoManualOptions>
       <Item>
-        <Region>Воронежская обл., Новохопёрск</Region>
-        <Bid>4.7</Bid>
+        <Bid>6</Bid>
+        <DailyLimit>1500</DailyLimit>
       </Item>
     </PromoManualOptions>
-    <Address>Воронежская обл., Новохопёрск</Address>
-    <Images>
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.qaO_ZbawBUqJ0odH4X_OzoTFB0oPzA1ACQ.wPzJigirSTslKIET-lMGjnDN6_kLviFqRNeuGCYfPJM" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.1NnwebaweDDGzvo91Ha-tMvZejBA0HA6Rg.xI89HHgJNRm3vveC47Gyc1F5gu0CKCufSfW5ESuTzDY" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.QMioEbaw7CGepm4spGRxq5Ox7iEYuOQrHg.0sQHR0Q0F2-YXdHPJT7djGul_q0I0gCuZYqXsPqW4pM" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.gS3-DbawLcTIuq_J8C_sQMWtL8ROpCXOSA.vP2iWHNT3S7hOV3daUcXbiZjj4mqccUI8IErW_l_wys" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.EiNxHbawvspHqjzHWXkqQEq9vMrBtLbAxw.8aR9vPS5443QV8JuDsd6WTEGS4aNipuJES1VORP77l0" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.wXXwnbawbZzGKu-R_rrPFss9b5xANGWWRg.2BYRwP6_vzesk3WhW3dj5yvZxqYGTgaGyYASW44_Dcs" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.NB6okbawmPeeJhr6zNk5cZMxmvcYOJD9Hg.COgiQpXbsScqv-mwSPBlOlTIn0quoXOvICKUi50obOY" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1._kZXL7awUq9hmNCiJ3z2KGyPUK_nhlql4Q.9lxUcH2lacXAlXuL-2QIaZn3XaBwb9ZO48MWrZQ59BU" />
-    </Images>
   </Ad>
   <Ad>
     <Id>EP_844E88D09A</Id>
-    <DateBegin>13.05.2026</DateBegin>
-    <DateEnd>12.06.2026</DateEnd>
+    <DateBegin>15.05.2026</DateBegin>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -208,13 +138,6 @@
  
  Добавьте объявление в Избранное, чтобы всегда был под рукой прямой выход на заводские цены без переплат.</Description>
     <Price>3000</Price>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Region>Воронежская обл., Россошь</Region>
-        <Bid>4.7</Bid>
-      </Item>
-    </PromoManualOptions>
     <Address>Воронежская обл., Россошь</Address>
     <Images>
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.oK-XcLawDEahx45L22av_63QDkYn2QRMIQ.Fi_tyV93L7I3hxDGm-ucMZaXHlyI15aDT520dS9ZwbA" />
@@ -228,156 +151,22 @@
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.aWbRfbawxY_nykeCjxRYE-zdx49h1M2FZw.w3jTbRGrAto9RJDKe6sOdPPKm1p8ZmA1Ccwy0EPwfss" />
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.dQOF5raw2eqzUVvn45Mhd7hG2-o1T9HgMw.71IyKywxhoF9wU9UmmpJmPe-V0f6h6QJuQhgAFa6Noc" />
     </Images>
-  </Ad>
-  <Ad>
-    <Id>EP_NM_F9F31F7D</Id>
-    <DateBegin>13.05.2026</DateBegin>
-    <DateEnd>12.06.2026</DateEnd>
-    <AllowEmail>Нет</AllowEmail>
-    <ManagerName>Эталон Пласт</ManagerName>
-    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <Category>Ремонт и строительство</Category>
-    <GoodsType>Окна и балконы</GoodsType>
-    <GoodsSubType>Окна</GoodsSubType>
-    <MaterialType>Пластик</MaterialType>
-    <ProfileBrand>KBE</ProfileBrand>
-    <BusinessSubType>Откидное</BusinessSubType>
-    <AdType>Товар от производителя</AdType>
-    <OperationType>Продам</OperationType>
-    <Condition>Новое</Condition>
-    <Title>Окна пвх для Богучар — напрямую с завода</Title>
-    <Description>Строите дом или делаете ремонт?
- 
- НЕ ПЕРЕПЛАЧИВАЙТЕ — берите окна у производителя!
- 🚛 ДОСТАВКА В ВАШ ГОРОД КАЖДУЮ НЕДЕЛЮ!
- 
- Продаем окна ПВХ в Воронеже с 2007 года напрямую с завода!
- 
- Если у вас есть своя бригада или вы устанавливаете сами — берите окна у нас. Экономия до 40% по сравнению с «под ключ».
- 
- Почему с нами удобно работать прорабам и частным мастерам:
- 
- Никакого навязывания: Нужны просто рамы со стеклопакетами? Сделаем.
- Любые комплектации: Профили KBE, ХАГЕЛЬ. От эконом для дачи до премиума с ламинацией.
- Точно в срок: Сказали готово в среду — значит, в среду.
- Фурнитура: Esse, Vorne, Reze.
- Логистика: Самовывоз или наша доставка прямо на объект по Воронежу и области.
- Работаем с частными лицами и организациями (оплата по счету с НДС)
- Наш склад и офис находится в Воронеже, но это не повод переплачивать логистам!
- Дистанционный договор для других городов (оплата на счет организации по QR-коду)
- 
- *окно 700x1100 — от 3100 р. (глухое)
- 
- ✅ Бесплатная доставка заводским транспортом — от 3 изделий в вашем заказе.
- Привезём прямо на объект, бережно упакованными, без повреждений.
- 
- Заказываете меньше 3 окон? Уточните стоимость доставки в чате — найдём решение!
- Напишите в чат — рассчитаем быстро:
- 1. Размеры (Ш x В)
- 2. Тип открывания
- 3. Профиль (если есть предпочтения)
- 
- Ответим в течение 15 минут с точной ценой!
- 
- Сохраните в Избранное, чтобы не потерять.</Description>
-    <Price>2000</Price>
+  
     <Promo>Manual</Promo>
     <PromoManualOptions>
       <Item>
-        <Region>Воронежская обл., Богучар</Region>
-        <Bid>4.7</Bid>
+        <Bid>9</Bid>
+        <DailyLimit>1500</DailyLimit>
       </Item>
     </PromoManualOptions>
-    <Address>Воронежская обл., Богучар</Address>
-    <Images>
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.dY5Ux7aw2WdicFtqMqJw4W9n22fkbtFt4g.YWKaLfQgmrlJ1cAXzYKCbY3Vxx_SVmGEtQUuPh-U7qY" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.LJHwkbawgHjGJgJ1pIE__MsxgnhAOIhyRg.Q8f_7pZsOKfO9gSajH80fKZOpr-TQerVWgFA_IznA58" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.w1qnNrawb7ORge2-rUHINJyWbbMXn2e5EQ.i3OF9g_2JlSBiXZ9o3su6vfuatSvxybaYmov5Bj0v2k" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.GkaeZLawtq-o0zSipngrJaXEtK8uzb6lKA.n6cZLD89QtSO5r_bAXhNDQvgvsxpd3OGOBL_xNU1VYg" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.65okmbawR3MSLsV-foKC9x85RXOUME95kg.NYeyN35Pn7-h6R-ooQTD-uOlE10FbRur8RG7nnE7Jrg" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.y2TLErawZ439peWA0XHzB_CyZY17u2-HfQ.bwHbUdslQS0UtWPVlOE4t7hWycZzms5YfnMck8Ihs5M" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.SYhwl7aw5WFGIGdsbt5o6ks352HAPu1rxg.Hee4GMF234kYf8oua7-KGc-5d50gDTGBeUTjQWhofL0" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.JOGE4rawiAiyVQoFwL5BjL9Cigg0S4ACMg.uyPd_dxbMAMflcJZRafvq9kCutRk3vfAq48aBLJUyO4" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>EP_NM_27F35C42</Id>
-    <DateBegin>13.05.2026</DateBegin>
-    <DateEnd>12.06.2026</DateEnd>
-    <AllowEmail>Нет</AllowEmail>
-    <ManagerName>Эталон Пласт</ManagerName>
-    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <Category>Ремонт и строительство</Category>
-    <GoodsType>Окна и балконы</GoodsType>
-    <GoodsSubType>Окна</GoodsSubType>
-    <MaterialType>Пластик</MaterialType>
-    <ProfileBrand>KBE</ProfileBrand>
-    <BusinessSubType>Откидное</BusinessSubType>
-    <AdType>Товар от производителя</AdType>
-    <OperationType>Продам</OperationType>
-    <Condition>Новое</Condition>
-    <Title>Пластиковые окна без монтажа — Репьёвка</Title>
-    <Description>Строите дом или делаете ремонт?
- 
- НЕ ПЕРЕПЛАЧИВАЙТЕ — берите окна у производителя!
- 🚛 ДОСТАВКА В ВАШ ГОРОД КАЖДУЮ НЕДЕЛЮ!
- 
- Продаем окна ПВХ в Воронеже с 2007 года напрямую с завода!
- 
- Если у вас есть своя бригада или вы устанавливаете сами — берите окна у нас. Экономия до 40% по сравнению с «под ключ».
- 
- Почему с нами удобно работать прорабам и частным мастерам:
- 
- Никакого навязывания: Нужны просто рамы со стеклопакетами? Сделаем.
- Любые комплектации: Профили KBE, ХАГЕЛЬ. От эконом для дачи до премиума с ламинацией.
- Точно в срок: Сказали готово в среду — значит, в среду.
- Фурнитура: Esse, Vorne, Reze.
- Логистика: Самовывоз или наша доставка прямо на объект по Воронежу и области.
- Работаем с частными лицами и организациями (оплата по счету с НДС)
- Наш склад и офис находится в Воронеже, но это не повод переплачивать логистам!
- Дистанционный договор для других городов (оплата на счет организации по QR-коду)
- 
- *окно 700x1100 — от 3100 р. (глухое)
- 
- ✅ Бесплатная доставка заводским транспортом — от 3 изделий в вашем заказе.
- Привезём прямо на объект, бережно упакованными, без повреждений.
- 
- Заказываете меньше 3 окон? Уточните стоимость доставки в чате — найдём решение!
- Напишите в чат — рассчитаем быстро:
- 1. Размеры (Ш x В)
- 2. Тип открывания
- 3. Профиль (если есть предпочтения)
- 
- Ответим в течение 15 минут с точной ценой!
- 
- Сохраните в Избранное, чтобы не потерять.</Description>
-    <Price>3500</Price>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Region>Воронежская обл., с. Репьёвка</Region>
-        <Bid>4.7</Bid>
-      </Item>
-    </PromoManualOptions>
-    <Address>Воронежская обл., с. Репьёвка</Address>
-    <Images>
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.abiI5bawxVG-Ukdc1sA91rNFx1E4TM1bPg.Zzq0zmS0Mk24mewxRK6PB84VvpGUYeZdwQEYQXciSzM" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.K8knMbawhyARhgUtfTVEpByRhSCXmI8qkQ.p-kIxiKPw-Y1pt9Ag6k3Ux7IGznM4ut5uGKUcuMavao" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.Nk52L7awmqdAmBiqFnt_IE2PmKfGhpKtwA.dXXNa5OSxbpEycBgJmoZ5PHu_wZCSpzZm5r_GWWnF9k" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.F7ivgLawu1GZNzlcjfB91ZQguVEfKbNbGQ.Ar83nUd0Y1YRjFkysO7PU7PItMtrQRs3Cngvpxdv58I" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.OiFpW7awlshf7BTFEXMyT1L7lMjZ8p7C3w.SyarMo1qQUGS0NcSnLDRXEarllBYoIWUrO_-MxENlVw" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.jF_0kbawILbCJqK74IeDMc8xIrZEOCi8Qg.WB6Irm-5_oY7ETUbbVOZrnN4I1AGbmjmkf-ssktZNsU" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.bNoZ8bawwDMvRkI-TfRVuCJRwjOpWMg5rw.2e_PYFoP6D6am2WDUZu8xLjw_PyjCm6uXRSw5sq1oiA" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.7FWE3LawQLyya8Kx0Lf0OL98Qrw0dUi2Mg.NLeW8SItPdS3_DLRT-WiYyz5DAC58UQAurQUmYId8fo" />
-    </Images>
   </Ad>
   <Ad>
     <Id>EP_636C3A4477</Id>
-    <DateBegin>13.05.2026</DateBegin>
-    <DateEnd>12.06.2026</DateEnd>
+    <DateBegin>15.05.2026</DateBegin>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -429,13 +218,6 @@
  Мы на связи с 9.30 до 18.00 по будням!!!!
  Добавьте объявление в Избранное, чтобы всегда был под рукой прямой выход на заводские цены без переплат.</Description>
     <Price>2500</Price>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Region>Воронежская обл., Лиски</Region>
-        <Bid>4.7</Bid>
-      </Item>
-    </PromoManualOptions>
     <Address>Воронежская обл., Лиски</Address>
     <Images>
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.jdCyn7awITmEKKM0pMnRjIg_IzkCNikzBA.w-OlQ6MXJZX1zgy87Sz-_u3EEMTx61eVNn20JZyo_tQ" />
@@ -449,164 +231,22 @@
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.gTTPNbawLd35gq_QwVf_f_KVL91_nCXXeQ.XjBv1b_66BkJ9S2teKoqw4UAlcsDbdCEFS7XqP8rLnk" />
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.C3xoi7awp5VePCWYcs9mN1UrpZXYIq-f3g.DUDE4uuGFmnaV8n8QDj4Jq78afmS-EqKWOdujNdJg94" />
     </Images>
-  </Ad>
-  <Ad>
-    <Id>EP_D7B66AAEE9</Id>
-    <DateBegin>13.05.2026</DateBegin>
-    <DateEnd>12.06.2026</DateEnd>
-    <AllowEmail>Нет</AllowEmail>
-    <ManagerName>Эталон Пласт</ManagerName>
-    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <Category>Ремонт и строительство</Category>
-    <GoodsType>Окна и балконы</GoodsType>
-    <GoodsSubType>Окна</GoodsSubType>
-    <MaterialType>Пластик</MaterialType>
-    <ProfileBrand>Deceuninck</ProfileBrand>
-    <BusinessSubType>Откидное</BusinessSubType>
-    <AdType>Товар от производителя</AdType>
-    <OperationType>Продам</OperationType>
-    <Condition>Новое</Condition>
-    <Title>Окна без монтажа — для частных мастеров и прорабов — Бобров</Title>
-    <Description>Строите дом? Делаете ремонт сами? Есть своя бригада?
-
-СРОЧНО ПИШИТЕ НАМ В ЧАТ!!!
-
-Производим окна ПВХ в Воронеже с 2007 года. Продаём напрямую — без посредников и наценки магазина.
-
-Если у вас есть своя бригада или вы устанавливаете сами — берите окна у нас. Экономия до 40% по сравнению с «под ключ».
-
-Наши преимущества:
-
-Без лишних услуг: берёте только то, что нужно.
-Профили на выбор: VEKA, REHAU, KBE, Хагель, Provedal — эконом, стандарт, премиум.
-Гарантия сроков: договорились — выполнили.
-Фурнитура Maco, Roto, Reze, Esse — долговечная и надёжная.
-Доставка на объект или удобный самовывоз.
-Безналичный расчёт с НДС для организаций.
-
-*окно 500x500 глухое — от 1 300 р.
-
-🚛 ДОСТАВКА И САМОВЫВОЗ ДЛЯ ВАШЕГО ГОРОДА
-
-Наш завод и склад находятся в Воронеже, но это не повод переплачивать логистам!
-
-✅ Самовывоз со склада в Воронеже — бесплатно, в любое удобное время.
- Адрес: г. Воронеж, Ленинский проспект, д. 20/1
-
-✅ Доставка заводским транспортом — от 5 изделий в вашем заказе.
- Привезём прямо на объект, бережно упакованными, без повреждений.
-
-Заказываете меньше 5 окон? Уточните стоимость доставки в чате — найдём решение!
-
-Просто напишите в чат Авито:
-— Ширина x Высота окна
-— Тип открывания
-— Нужны ли откосы, подоконники, отливы
-
-Пример: 900x1200, поворотно-откидное — рассчитаем за 5 минут!
-
-Добавьте в Избранное — всегда будет быстрый доступ к заводским ценам.</Description>
-    <Price>5000</Price>
+  
     <Promo>Manual</Promo>
     <PromoManualOptions>
       <Item>
-        <Region>Воронежская обл., Бобров</Region>
-        <Bid>4.7</Bid>
+        <Bid>9</Bid>
+        <DailyLimit>1500</DailyLimit>
       </Item>
     </PromoManualOptions>
-    <Address>Воронежская обл., Бобров</Address>
-    <Images>
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.4iH3a7awTsjB3MzFv0ylT8zLTMhHwkbCQQ.wucbubpFI7X74ZEUbBOFVVbZVUhxMBxJK-hqWUGRyXY" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.FiI6BrawussMsTjGGnZfTAGmuMuKr7LBjA.2FLCPP0-Ej_4D59g0MbaEm4kz7RhLW33zx0JQEgAh1o" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.tY5aF7awGWdsoJtqPBm-4WG3G2fqvhFt7A.ajmJDrVHTQqxD6k_Lp9IAYwinEUW2iGvF0irWZYtCio" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.C3oj47awp5MVVCWeOac8FBhDpZOTSq-ZlQ.crFS1TSJcwXEJnk62AWPzTcmLXBEjOAxro2vthsYdq0" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.oWnw8LawDYDGR4-Nvrb-B8tQD4BAWQWKRg.2GGSvtn4lJ-bRGOiQ58al6VRdhRNoFncmKwS2r0f6Fw" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.7OmElrawQACyIcIN0MHhhb82QgA0P0gKMg.DXPnhhIzcCtFKj_lwW52vEYJ7iw20wSvbizr97wsVYI" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.WiHxO7aw9sjHjHTFyQoeT8qb9MhBkv7CRw.KCER87pT2XJhzu3Vama79t9puJ0vHKHYDomZAk58OR0" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.2hN9ZrawdvpL0fT3RU3ffEbGdPrNz37wyw.XxAyq_g-sumZ4MswNrJ11t2yXLKxrEoz5w5SakDJ7fY" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.SIrVjLaw5GPjO2Zuyc1D5e4s5mNlJexpYw.SiSrymlBY1DIOBjnNxcZKQVcBuvHfrRANrkuNnctfPA" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.q3hKsrawB5F8BYWcEOSzFXESBZH6Gw-b_A.Y4gL8-Y-WD2ZjrlRI7r9ijdJfEpJ39wluHZcbSo6e9g" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>EP_1A176CFFC9</Id>
-    <DateBegin>13.05.2026</DateBegin>
-    <DateEnd>12.06.2026</DateEnd>
-    <AllowEmail>Нет</AllowEmail>
-    <ManagerName>Эталон Пласт</ManagerName>
-    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <Category>Ремонт и строительство</Category>
-    <GoodsType>Окна и балконы</GoodsType>
-    <GoodsSubType>Окна</GoodsSubType>
-    <MaterialType>Пластик</MaterialType>
-    <ProfileBrand>KBE</ProfileBrand>
-    <BusinessSubType>Поворотно-откидное</BusinessSubType>
-    <AdType>Товар от производителя</AdType>
-    <OperationType>Продам</OperationType>
-    <Condition>Новое</Condition>
-    <Title>Калач — Окна пвх доставка — от производителя</Title>
-    <Description>Нужны просто качественные окна — без навязанного монтажа?
- 
- МЫ РАБОТАЕМ ИМЕННО ДЛЯ ВАС!
- 
- Если у вас есть своя бригада или вы устанавливаете сами — берите окна у нас. Экономия до 40% по сравнению с «под ключ».
- 
- Почему выбирают «Эталон Пласт»:
- 
- Цена производителя без наценки.
- Профили: KBE, Хагель
- Фурнитура: Vorne, Esse, Reze.
- Доставка по Воронежу и области — бережно, без повреждений.
- Счёт с НДС, договор, гарантийный талон.
- 
- 
- 🚛 ДОСТАВКА ДЛЯ ВАШЕГО ГОРОДА БЕСПЛАТНО!
- 
- Наш склад находятся в Воронеже, но это не повод переплачивать логистам!
- 
- Адрес офиса: г. Воронеж, Ленинский проспект, д. 20/1
- Дистанционное оформление заказа для других городов!
- 
- ✅ Доставка заводским транспортом — от 3 изделий в вашем заказе.
- Привезём прямо на объект, бережно упакованными, без повреждений.
- 
- Заказываете меньше 3 окон? Уточните стоимость доставки в чате — найдём решение!
- 
- Напишите в чат — рассчитаем быстро:
- 1. Размеры (Ш x В)
- 2. Тип открывания
- 3. Профиль (если есть предпочтения)
- 
- Ответим в течение 15 минут с точной ценой!
- 
- Сохраните в Избранное, чтобы не потерять.</Description>
-    <Price>2500</Price>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Region>Воронежская обл., Калач</Region>
-        <Bid>4.7</Bid>
-      </Item>
-    </PromoManualOptions>
-    <Address>Воронежская обл., Калач</Address>
-    <Images>
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.qa0jZbawBUQV0odJfR-nwRjFB0STzA1OlQ.9YFvUZxGNckKnfe6hU0jbVrYug9McQ2A6pp36eQipvs" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.Frk7DrawulANuThdGxIbxwCuuFCLp7JajQ.znvKTwHZUzmbCp4W0bgHvir1LqQEN0HRUZPqcvRK-oM" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.QAjTMraw7OHlhW7s33sVdeiS7uFjm-TrZQ.aKDNI9kq1JTB4WBPzgTn_pxoFweqXE6hl4xCUGr4rPQ" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.438xUrawT5YH5c2be3mlEQryTZaB-0echw.vNOFadzvOFTA4OowNPOrcbQ4xVFB1i22fRnky5DlyZo" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.m3w3srawN5UBBbWYDcScEwwSNZWHGz-fgQ.Qdoh0ORryj7I9d9T01xQ3Bn8a2ALoHYwijQOqUGvxhQ" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.3sA6LrawcikMmfAkClXQrAGOcCmKh3ojjA.zS6t3lDqfaANZ315b8OaTueI8NLe0JFAP86JRgISiyE" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.-E_VjbawVKbjOtarqZ7LIO4tVqZlJFysYw.VXpxSAtYUKUyQZWVdqLjkqvqSBmtapeNT_veNDDk7nk" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.qVTa5bawBb3sUoewhNO4J-FFB71qTA23bA.8pJbrqX__TlyQffA7EjJ85JQpI7x2f1Tg76CIRFRTik" />
-    </Images>
   </Ad>
   <Ad>
     <Id>EP_C9CBC66619</Id>
-    <DateBegin>13.05.2026</DateBegin>
-    <DateEnd>12.06.2026</DateEnd>
+    <DateBegin>15.05.2026</DateBegin>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Окна и балконы</GoodsType>
     <GoodsSubType>Окна</GoodsSubType>
@@ -658,13 +298,6 @@
  
  Добавьте объявление в Избранное, чтобы всегда был под рукой прямой выход на заводские цены без переплат.</Description>
     <Price>1500</Price>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Region>Воронежская обл., Павловск</Region>
-        <Bid>4.7</Bid>
-      </Item>
-    </PromoManualOptions>
     <Address>Воронежская обл., Павловск</Address>
     <Images>
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.rlawQ7awAr-G9ICy4BX-Io3jAL8A6gq1Bg.UCHrN--41WRpP6AS4RmxSZYR6dudxVAGVdeBha6kI6U" />
@@ -675,218 +308,17 @@
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.HCncWLawsMDq7zLN6GR_YuH4ssBs8bjKag.eBJOGj5ZRGUyKgh4U2IsOjPZV3SAQWYepdTVyEuODKQ" />
       <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.kfNoJ7awPRpekL8XRjW3h1WHPxrYjjUQ3g.87OdYbXcAa4Tqs3L9VTkufP3bhQca3VqtvlSHDgssMs" />
     </Images>
-  </Ad>
-  <Ad>
-    <Id>EP_NM_E441E170</Id>
-    <DateBegin>13.05.2026</DateBegin>
-    <DateEnd>12.06.2026</DateEnd>
-    <AllowEmail>Нет</AllowEmail>
-    <ManagerName>Эталон Пласт</ManagerName>
-    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <Category>Ремонт и строительство</Category>
-    <GoodsType>Окна и балконы</GoodsType>
-    <GoodsSubType>Окна</GoodsSubType>
-    <MaterialType>Пластик</MaterialType>
-    <ProfileBrand>KBE</ProfileBrand>
-    <BusinessSubType>Откидное</BusinessSubType>
-    <AdType>Товар от производителя</AdType>
-    <OperationType>Продам</OperationType>
-    <Condition>Новое</Condition>
-    <Title>Окна без монтажа — доставка в Давыдовка</Title>
-    <Description>Строите дом или делаете ремонт?
- 
- НЕ ПЕРЕПЛАЧИВАЙТЕ — берите окна у производителя!
- 🚛 ДОСТАВКА В ВАШ ГОРОД КАЖДУЮ НЕДЕЛЮ!
- 
- Продаем окна ПВХ в Воронеже с 2007 года напрямую с завода!
- 
- Если у вас есть своя бригада или вы устанавливаете сами — берите окна у нас. Экономия до 40% по сравнению с «под ключ».
- 
- Почему с нами удобно работать прорабам и частным мастерам:
- 
- Никакого навязывания: Нужны просто рамы со стеклопакетами? Сделаем.
- Любые комплектации: Профили KBE, ХАГЕЛЬ. От эконом для дачи до премиума с ламинацией.
- Точно в срок: Сказали готово в среду — значит, в среду.
- Фурнитура: Esse, Vorne, Reze.
- Логистика: Самовывоз или наша доставка прямо на объект по Воронежу и области.
- Работаем с частными лицами и организациями (оплата по счету с НДС)
- Наш склад и офис находится в Воронеже, но это не повод переплачивать логистам!
- Дистанционный договор для других городов (оплата на счет организации по QR-коду)
- 
- *окно 700x1100 — от 3100 р. (глухое)
- 
- ✅ Бесплатная доставка заводским транспортом — от 3 изделий в вашем заказе.
- Привезём прямо на объект, бережно упакованными, без повреждений.
- 
- Заказываете меньше 3 окон? Уточните стоимость доставки в чате — найдём решение!
- Напишите в чат — рассчитаем быстро:
- 1. Размеры (Ш x В)
- 2. Тип открывания
- 3. Профиль (если есть предпочтения)
- 
- Ответим в течение 15 минут с точной ценой!
- 
- Сохраните в Избранное, чтобы не потерять.</Description>
-    <Price>3500</Price>
+  
     <Promo>Manual</Promo>
     <PromoManualOptions>
       <Item>
-        <Region>Воронежская обл., рп. Давыдовка</Region>
-        <Bid>4.7</Bid>
+        <Bid>9</Bid>
+        <DailyLimit>1500</DailyLimit>
       </Item>
     </PromoManualOptions>
-    <Address>Воронежская обл., рп. Давыдовка</Address>
-    <Images>
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.F5ivv7awu3GZCDl8jY8B9JQfuXEfFrN7GQ.G3DqHwss4qFMOKV7bWfU-1FCskoaYiI6EBDT5B7Qpns" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.T6Qzuraw400FDWFAIecWygga4U2DE-tHhQ.26wz4tjMgxtnTuQwB_X-WT51y0dlmzSULfCQbaBecOE" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.1Y6AV7aweWe24PtqpniE4Lv3e2cw_nFtNg.YTuA0Ot-osHd1Eqghpbi-WbhmpCdSM8hLpI192xoqg4" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.nNoYZbawMDMu0rI-LHemuCPFMjOozDg5rg.w9J1vK_3sq6XADPwR3n2xt90jVA6vTXGGuiYYc7uIdk" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.8S3gPLawXcTWi9_Jjhf_Q9ucX8RQlVXOVg.gOOJveZrQxgnPjOFYmTbEWZfbMIOKjBT8b4DZav76Gw" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.4iN7K7awTspNnMzHMxzjT0CLTMrLgkbAzQ.OhS5PHzR1CH9yM8xcMQlcpj-1_8Rb2wcts3-35qQbik" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.LdLyxrawgTvEcQM2pLJzvMlmgztCb4kxRA.w_DTtDJ9z3sYeirq_DSERxHpxRdcqhpAp35EnvyiPvY" />
-      <Image url="http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.R4Cv2Law62mZb2lkrdlN75R46WkfceNjGQ.Q9W7eFIqWYirmMGDM1YQf0qHv-OEOVL7kpW9fwQNMAU" />
-    </Images>
   </Ad>
   <Ad>
-    <Id>EP_NM_937D6DE3</Id>
-    <DateBegin>13.05.2026</DateBegin>
-    <DateEnd>12.06.2026</DateEnd>
-    <AllowEmail>Нет</AllowEmail>
-    <ManagerName>Эталон Пласт</ManagerName>
-    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <Category>Ремонт и строительство</Category>
-    <GoodsType>Окна и балконы</GoodsType>
-    <GoodsSubType>Окна</GoodsSubType>
-    <MaterialType>Пластик</MaterialType>
-    <ProfileBrand>KBE</ProfileBrand>
-    <BusinessSubType>Откидное</BusinessSubType>
-    <AdType>Товар от производителя</AdType>
-    <OperationType>Продам</OperationType>
-    <Condition>Новое</Condition>
-    <Title>Окна ПВХ без монтажа — Воронеж, Ленинский район</Title>
-    <Description>Нужны окна без переплаты за монтаж в Воронеже, Ленинский район?
-
-ПИШИТЕ В ЧАТ — ответим быстро!
-
-«Эталон Пласт» — воронежский завод ПВХ-окон. Работаем напрямую с 2007 года.
-
-Доставим окна ПВХ в Ленинский район Воронежа — прямо на ваш объект.
-Если у вас есть своя бригада — берите окна у нас. Экономия до 40%.
-
-Почему выбирают «Эталон Пласт»:
-
-✅ Вы платите только за окно — никаких навязанных услуг
-✅ Профили VEKA, REHAU, KBE, Хагель, Provedal
-✅ Фурнитура Maco, Roto, Reze, Esse
-✅ Гарантия сроков | Доставка по Воронежу
-✅ Безналичный расчёт с НДС для организаций
-
-🚛 ДОСТАВКА ПО ЛЕНИНСКОМУ РАЙОНУ
-
-Наш склад: г. Воронеж, Ленинский проспект, д. 20/1
-
-Напишите в чат — рассчитаем за 5 минут!
-→ Ширина x Высота
-→ Тип открывания
-→ Нужны ли подоконники
-
-Сохраните в Избранное!</Description>
-    <Price>2950</Price>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Region>Воронеж, Ленинский район</Region>
-        <Bid>4.7</Bid>
-      </Item>
-    </PromoManualOptions>
-    <Address>Воронеж, Ленинский район</Address>
-    <Images>
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/воронеж_okno_1_cf02fb.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/воронеж_okno_2_cf02fb.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/воронеж_okno_3_cf02fb.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/воронеж_okno_4_cf02fb.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/воронеж_okno_5_cf02fb.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/воронеж_okno_6_cf02fb.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/воронеж_okno_7_cf02fb.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/воронеж_okno_8_cf02fb.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>EP_NM_d36bbeb44b</Id>
-    <DateBegin>13.05.2026</DateBegin>
-    <DateEnd>12.06.2026</DateEnd>
-    <AvitoId>8058648719</AvitoId>
-    <AllowEmail>Нет</AllowEmail>
-    <ManagerName>Эталон Пласт</ManagerName>
-    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <Category>Ремонт и строительство</Category>
-    <GoodsType>Окна и балконы</GoodsType>
-    <GoodsSubType>Окна</GoodsSubType>
-    <MaterialType>Пластик</MaterialType>
-    <ProfileBrand>KBE</ProfileBrand>
-    <BusinessSubType>Откидное</BusinessSubType>
-    <AdType>Товар от производителя</AdType>
-    <OperationType>Продам</OperationType>
-    <Condition>Новое</Condition>
-    <Title>Окна с завода (без монтажа)— доставка в Острогожск</Title>
-    <Description>Строите дом или делаете ремонт?
-
-НЕ ПЕРЕПЛАЧИВАЙТЕ — берите окна у производителя!
-🚛 ДОСТАВКА В ВАШ ГОРОД КАЖДУЮ НЕДЕЛЮ!
-
-Продаем окна ПВХ в Воронеже с 2007 года напрямую с завода!
-
-Если у вас есть своя бригада или вы устанавливаете сами — берите окна у нас. Экономия до 40% по сравнению с «под ключ».
-
-Почему с нами удобно работать прорабам и частным мастерам:
-
-Никакого навязывания: Нужны просто рамы со стеклопакетами? Сделаем.
-Любые комплектации: Профили KBE, ХАГЕЛЬ. От эконом для дачи до премиума с ламинацией.
-Точно в срок: Сказали готово в среду — значит, в среду.
-Фурнитура: Esse, Vorne, Reze.
-Логистика: Самовывоз или наша доставка прямо на объект по Воронежу и области.
-Работаем с частными лицами и организациями (оплата по счету с НДС)
-Наш склад и офис находится в Воронеже, но это не повод переплачивать логистам!
-Дистанционный договор для других городов (оплата на счет организации по QR-коду)
-
-*окно 700x1100 — от 3100 р. (глухое)
-
-✅ Бесплатная доставка заводским транспортом — от 3 изделий в вашем заказе.
-Привезём прямо на объект, бережно упакованными, без повреждений.
-
-Заказываете меньше 3 окон? Уточните стоимость доставки в чате — найдём решение!
-Напишите в чат — рассчитаем быстро:
-1. Размеры (Ш x В)
-2. Тип открывания
-3. Профиль (если есть предпочтения)
-
-Ответим в течение 15 минут с точной ценой!
-
-Сохраните в Избранное, чтобы не потерять.</Description>
-    <Price>2000</Price>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Region>Воронежская обл., Острогожск</Region>
-        <Bid>4.7</Bid>
-      </Item>
-    </PromoManualOptions>
-    <Address>Воронежская обл., Острогожск</Address>
-    <Images>
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_острогожск_okno_1_placeholder.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_острогожск_okno_2_placeholder.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_острогожск_okno_3_placeholder.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_острогожск_okno_4_placeholder.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_острогожск_okno_5_placeholder.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_острогожск_okno_6_placeholder.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_острогожск_okno_7_placeholder.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/draft_острогожск_okno_8_placeholder.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>EP_TEST_C284B441</Id>
-    <DateBegin>21.05.2026</DateBegin>
-    <DateEnd>20.06.2026</DateEnd>
+    <Id>EP_VRN_V4DOM</Id>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
     <ContactPhone>+7 (473) 261-25-95</ContactPhone>
@@ -896,52 +328,53 @@
     <GoodsSubType>Окна</GoodsSubType>
     <MaterialType>Пластик</MaterialType>
     <ProfileBrand>KBE</ProfileBrand>
-    <OpeningType>Поворотно-откидное</OpeningType>
+    <BusinessSubType>Откидное</BusinessSubType>
     <AdType>Товар от производителя</AdType>
     <OperationType>Продам</OperationType>
     <Condition>Новое</Condition>
-    <Title>Окна ПВХ по заводской цене — Воронеж</Title>
-    <Description>Платите заводскую цену, а не наценку магазина!
+    <Title>Окна ПВХ с завода без монтажа — для дома</Title>
+    <Description><![CDATA[Строите собственный дом? Делаете ремонт сами? Монтаж выполняет ваша бригада?
 
-ПИШИТЕ В ЧАТ — рассчитаем за 5 минут.
+СРОЧНО НАПИШИТЕ НАМ В ЧАТ АВИТО!!!
 
-«Эталон Пласт» — с 2007 года поставляем окна с заводов VEKA, REHAU, KBE, Хагель напрямую. Никаких посредников — только заводская цена + доставка.
+Когда установка не требуется, незачем переплачивать оконной компании за выезд и монтаж. «Эталон Пласт» отгружает окна напрямую с производства без навязанных услуг; в Воронеже работаем с 2007 года. Оплачиваете ТОЛЬКО само изделие по заводской цене — без оплаты замерщика и монтажников.
 
-Почему у нас дёшево:
-→ Вы платите заводскую цену — без накруток продавца
-→ Профили VEKA, REHAU, KBE, Хагель на любой бюджет
-→ Фурнитура Maco, Roto, Reze — без компромиссов
-→ Доставка до объекта или самовывоз со склада в Воронеже
-→ Счёт с НДС для организаций
+Почему такой формат подходит прорабам и частным мастерам:
+✅ Делаем без лишних услуг: можно заказать только рамы со стеклопакетами.
+✅ Доступны разные комплектации и профили: VEKA, REHAU, KBE, БРУСБОКС, ХАГЕЛЬ, Provedal. Выбор — от эконом-вариантов для дачи до премиума с ламинацией.
+✅ Выполняем к названному сроку: сказали, что готово в среду, — значит, в среду можно забирать окна.
+✅ Варианты фурнитуры: Maco, Roto, Esse, Vorne, Reze.
 
-Наш склад: г. Воронеж, Ленинский проспект, д. 20/1
+Получить заказ можно самовывозом со склада или нашей бережной доставкой прямо на объект в Воронеже и области. Работаем с частными заказчиками и организациями; доступна оплата по счёту с НДС.
 
-Напишите в чат — рассчитаем за 5 минут:
-→ Ширина x Высота
-→ Тип открывания
-→ Нужны ли подоконники/отливы
+Для расчёта не нужно звонить и ждать менеджера. Напишите в чат Авито:
+— ширину и высоту каждого окна;
+— вариант открывания: глухое, поворотное, откидное;
+— нужны ли подоконники и отливы.
 
-Добавьте в Избранное — всегда под рукой заводская цена.</Description>
-    <Price>3100</Price>
+*глухое окно размером 500×500 — 1300 ₽.
+
+Добавьте объявление в Избранное: прямой выход на заводские цены без переплат останется у вас под рукой.]]></Description>
+    <Price>1300</Price>
+    <Address>Воронеж, Ленинский проспект, 20/1</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_01_cover_largus.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_02_real_party.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_03_real_veka.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_04_inf3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_05_inf4_chat.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_06_scene.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_07_scene.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_08_scene.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_09_primerka.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_10_scene.jpg"/>
+    </Images>
     <Promo>Manual</Promo>
     <PromoManualOptions>
       <Item>
-        <Region>Воронеж, Ленинский проспект, д. 20/1</Region>
-        <Bid>4.7</Bid>
+        <Bid>7</Bid>
+        <DailyLimit>1500</DailyLimit>
       </Item>
     </PromoManualOptions>
-    <Address>Воронеж, Ленинский проспект, д. 20/1</Address>
-    <Images>
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_1_cf02fb.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_2_ed46bb.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_3_85a765.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_4_ef9678.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_5_63fcc3.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_6_692d8d.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_7_c2da43.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_8_013dca.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_9_d17ba1.jpg" />
-      <Image url="https://cdn.jsdelivr.net/gh/zenkkp-dotcom/etalon-images@main/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6_okno_10_803d78.jpg" />
-    </Images>
   </Ad>
 </Ads>
