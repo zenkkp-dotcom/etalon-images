@@ -358,16 +358,13 @@
     <Price>1300</Price>
     <Address>Воронеж, Ленинский проспект, 20/1</Address>
     <Images>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_01_cover_largus.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_02_real_party.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_03_real_veka.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_04_inf3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_05_inf4_chat.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_06_scene.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_07_scene.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_08_scene.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_09_primerka.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_10_scene.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/01.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/02.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/03.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/04.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/05.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/06.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/07.jpg"/>
     </Images>
     <Promo>Manual</Promo>
     <PromoManualOptions>
@@ -492,16 +489,13 @@
     <Price>1300</Price>
     <Address>Воронеж, Коминтерновский район</Address>
     <Images>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a2/a2_01.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a2/a2_02.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a2/a2_03.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a2/a2_04.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a2/a2_05.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a2/a2_06.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a2/a2_07.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a2/a2_08.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a2/a2_09.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a2/a2_10.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a3/01.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a3/02.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a3/03.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a3/04.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a3/05.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a3/06.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_a3/07.jpg"/>
     </Images>
     <Promo>Manual</Promo>
     <PromoManualOptions>
@@ -539,17 +533,78 @@
     <Price>600</Price>
     <Address>Воронеж, Железнодорожный район</Address>
     <Images>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_s2/s2_01.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_s2/s2_02.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_s2/s2_03.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_s2/s2_04.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_s2/s2_05.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_s2/s2_06.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_s3/01.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_s3/02.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_s3/03.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/klon_s3/04.jpg"/>
     </Images>
     <Promo>Manual</Promo>
     <PromoManualOptions>
       <Item>
         <Bid>6</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+  <Ad>
+    <Id>EP_CHAMP_DDB</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>VEKA</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Окна ПВХ без монтажа — дача, дом, баня, доставка</Title>
+    <Description><![CDATA[Нужны окна без переплаты за монтаж? Пришлите размеры в чат — посчитаем за 15 минут.
+
+Вы делаете ремонт сами, у вас своя бригада или прораб? Тогда незачем платить оконной фирме за замер и установку. «Эталон Пласт» отгружает окна ПВХ напрямую с завода-изготовителя — вы платите только за само изделие по заводской цене. В Воронеже с 2007 года.
+
+ПОЧЕМУ У НАС ЧЕСТНАЯ ЦЕНА:
+— не платите за дорогой офис, шоурум и штат менеджеров;
+— берёте только то, что нужно: рамы со стеклопакетами, без навязанных услуг;
+— заводская цена без наценки магазина-посредника.
+
+Нашли дешевле? Пришлите чужой расчёт — сравним по комплектации. Часто за «низкой ценой» прячется тонкий профиль, однокамерный стеклопакет и эконом-фурнитура. Мы честно покажем разницу.
+
+ЧТО ПОДБЕРЁМ ПОД ВАШУ ЗАДАЧУ:
+— профили VEKA, REHAU, KBE, Брусбокс, Хагель, Provedal — от эконома для дачи до премиума с ламинацией под дерево и цветом по RAL;
+— фурнитура Maco, Roto, Vorne, Esse, Reze;
+— любые размеры и формы: от маленького окна в баню до панорамной веранды и арочных окон.
+
+*глухое окно 500×500 — от 1300 ₽.
+
+ДОСТАВКА И САМОВЫВОЗ:
+— самовывоз со склада в Воронеже (Ленинский проспект, 20/1) — бесплатно, в удобное время;
+— бережная доставка заводским транспортом по Воронежу и области прямо на объект.
+
+Как быстро посчитать — напишите в чат Авито:
+1. размеры каждого окна (ширина × высота);
+2. открывание: глухое, поворотное, поворотно-откидное;
+3. нужны ли подоконники и отливы.
+
+Ответим с точной ценой. Сохраните объявление в Избранное, чтобы прямой выход на заводские цены был под рукой.]]></Description>
+    <Price>1300</Price>
+    <Address>Воронеж, Советский район</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/champion/01.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/champion/02.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/champion/03.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/champion/04.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/champion/05.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/champion/06.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/champion/07.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>7</Bid>
         <DailyLimit>1500</DailyLimit>
       </Item>
     </PromoManualOptions>
