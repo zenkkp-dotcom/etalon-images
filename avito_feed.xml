@@ -358,15 +358,16 @@
     <Price>1300</Price>
     <Address>Воронеж, Ленинский проспект, 20/1</Address>
     <Images>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/01.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/02.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/03.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/04.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/05.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/06.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/07.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/08.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v5/09.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_01_cover_largus.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_02_real_party.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_03_real_veka.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_04_inf3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_05_inf4_chat.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_06_scene.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_07_scene.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_08_scene.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_09_primerka.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/vrn_v4/v3_10_scene.jpg"/>
     </Images>
     <Promo>Manual</Promo>
     <PromoManualOptions>
