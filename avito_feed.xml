@@ -2510,422 +2510,6 @@
 
 
   <Ad>
-
-
-
-    <Id>EP_W2_USECASE</Id>
-
-
-
-    <AllowEmail>Нет</AllowEmail>
-
-
-
-    <ManagerName>Эталон Пласт</ManagerName>
-
-
-
-    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-
-
-
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-
-
-
-    <Category>Ремонт и строительство</Category>
-
-
-
-    <GoodsType>Окна и балконы</GoodsType>
-
-
-
-    <GoodsSubType>Окна</GoodsSubType>
-
-
-
-    <MaterialType>Пластик</MaterialType>
-
-
-
-    <ProfileBrand>REHAU</ProfileBrand>
-
-
-
-    <BusinessSubType>Поворотное</BusinessSubType>
-
-
-
-    <AdType>Товар от производителя</AdType>
-
-
-
-    <OperationType>Продам</OperationType>
-
-
-
-    <Condition>Новое</Condition>
-
-
-
-    <Title>Окна на дачу, в дом, баню, террасу, гараж, сарай</Title>
-
-
-
-    <Description><![CDATA[Строите дачу или дом? Ставите баню, гараж, сарай? Стеклите террасу? Монтаж — сами или ваша бригада?
-
-«Эталон Пласт» отгружает окна напрямую с завода-изготовителя — без монтажа и навязанных услуг. Работаем с 2007 года.
-
-💰 Платите только за изделие — без замерщика и монтажников.
-Для примера: глухое окно 500×500 — от 1 300 ₽.
-✅ Под ваши размеры: VEKA, REHAU, KBE, Брусбокс, Хагель, Provedal (холодный алюминий) — от эконом-варианта в сарай до ламинации под дерево в дом.
-✅ Фурнитура: Maco, Roto, Vorne, Esse.
-📏 Изготовление — от 3 дней.
-🚚 Самовывоз в Воронеже (Ленинский пр-т 20/1, будни 9:30–18:00) — бесплатно.
-🚚 По Воронежу и до 25 км привезём бесплатно до подъезда. По области — заводскими рейсами по графику, от 2–3 изделий бесплатно: город и рейс уточним в чате.
-
-💬 Напишите в чат: размеры · открывание (глухое/поворотное/откидное) · нужны ли подоконники и отливы — расчёт пришлём в течение 15 минут.
-
-⭐ Сохраните объявление в Избранное — пригодится к началу стройки.]]></Description>
-
-
-
-    <Price>1300</Price>
-
-
-
-    <Address>Воронеж, Московский проспект</Address>
-
-
-
-    <Images>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_usecase_v3/01.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_usecase_v3/02.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_usecase_v3/03.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_usecase_v3/04.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_usecase_v3/05.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_usecase_v3/06.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_usecase_v3/07.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_usecase_v3/08.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_usecase_v3/09.jpg"/>
-    </Images>
-
-
-
-    <Promo>Manual</Promo>
-
-
-
-    <PromoManualOptions>
-
-
-
-      <Item>
-
-
-
-        <Bid>5</Bid>
-
-
-
-        <DailyLimit>1500</DailyLimit>
-
-
-
-      </Item>
-
-
-
-    </PromoManualOptions>
-
-
-
-  </Ad>
-
-
-
-  <Ad>
-
-
-
-    <Id>EP_W2_SRAVNI</Id>
-
-
-
-    <AllowEmail>Нет</AllowEmail>
-
-
-
-    <ManagerName>Эталон Пласт</ManagerName>
-
-
-
-    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-
-
-
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-
-
-
-    <Category>Ремонт и строительство</Category>
-
-
-
-    <GoodsType>Окна и балконы</GoodsType>
-
-
-
-    <GoodsSubType>Окна</GoodsSubType>
-
-
-
-    <MaterialType>Пластик</MaterialType>
-
-
-
-    <ProfileBrand>Другой</ProfileBrand>
-
-
-
-    <BusinessSubType>Поворотно-откидное</BusinessSubType>
-
-
-
-    <AdType>Товар от производителя</AdType>
-
-
-
-    <OperationType>Продам</OperationType>
-
-
-
-    <Condition>Новое</Condition>
-
-
-
-    <Title>Окна ПВХ на дом и дачу — сравните комплектацию</Title>
-
-
-
-    <Description><![CDATA[Ставите окна в дом или на дачу? Уже собрали расчёты и сравниваете цены?
-
-Нашли дешевле? Пришлите чужой расчёт в чат — сравним по комплектации, позиция к позиции.
-
-«Эталон Пласт» — окна ПВХ без монтажа, в Воронеже с 2007 года. Платите только за изделие — без замерщика и монтажников.
-
-💰 Цены для сравнения:
-✅ Глухое 500×500 — от 1 300 ₽
-✅ 800×1200 поворотно-откидное: однокамерный стеклопакет — 6 760 ₽, двухкамерный — 7 260 ₽
-
-📏 Профили VEKA, REHAU, KBE, Брусбокс, Хагель. Фурнитура Maco, Roto, Vorne, Esse. Есть ламинация под дерево. Изготовление от 3 дней.
-
-🚚 Самовывоз: Воронеж, Ленинский проспект 20/1, будни 9:30–18:00 — бесплатно. По Воронежу и до 25 км — доставка бесплатно до подъезда. По области — заводским транспортом по графику рейсов, бесплатно от 2–3 изделий: ваш город уточним в чате.
-
-💬 Напишите в чат: размеры · открывание · подоконники/отливы — ответим с ценой в течение 15 минут.
-
-Сохраните в Избранное ⭐ — пригодится при сравнении.]]></Description>
-
-
-
-    <Price>1300</Price>
-
-
-
-    <Address>Воронеж, улица Кирова</Address>
-
-
-
-    <Images>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_sravni/01.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_sravni/02.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_sravni/03.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_sravni/04.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_sravni/05.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_sravni/06.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_sravni/07.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_sravni/08.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_sravni/09.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_sravni/10.jpg"/>
-    </Images>
-
-
-
-    <Promo>Manual</Promo>
-
-
-
-    <PromoManualOptions>
-
-
-
-      <Item>
-
-
-
-        <Bid>5</Bid>
-
-
-
-        <DailyLimit>1500</DailyLimit>
-
-
-
-      </Item>
-
-
-
-    </PromoManualOptions>
-
-
-
-  </Ad>
-
-
-
-  <Ad>
-
-
-
-    <Id>EP_W2_KVARTIRA</Id>
-
-
-
-    <AllowEmail>Нет</AllowEmail>
-
-
-
-    <ManagerName>Эталон Пласт</ManagerName>
-
-
-
-    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-
-
-
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-
-
-
-    <Category>Ремонт и строительство</Category>
-
-
-
-    <GoodsType>Окна и балконы</GoodsType>
-
-
-
-    <GoodsSubType>Окна</GoodsSubType>
-
-
-
-    <MaterialType>Пластик</MaterialType>
-
-
-
-    <ProfileBrand>VEKA</ProfileBrand>
-
-
-
-    <BusinessSubType>Откидное</BusinessSubType>
-
-
-
-    <AdType>Товар от производителя</AdType>
-
-
-
-    <OperationType>Продам</OperationType>
-
-
-
-    <Condition>Новое</Condition>
-
-
-
-    <Title>Окна в квартиру, на балкон и лоджию — без монтажа</Title>
-
-
-
-    <Description><![CDATA[Ремонт в квартире? Окна меняете сами или руками своего отделочника?
-Тогда вам сюда: продаём окна без монтажа — платите только за изделие, без замерщика и монтажников.
-
-💰 Глухое 500×500 — от 1 300 ₽.
-Для сравнения: поворотно-откидное 800×1200 — 6 760 ₽ с однокамерным стеклопакетом, 7 260 ₽ с двухкамерным.
-
-✅ В комнату, на кухню — под ваши размеры.
-✅ Профили VEKA, REHAU, KBE, Брусбокс, Хагель; на холодный балкон и лоджию — алюминий Provedal.
-✅ Фурнитура Maco, Roto, Vorne, Esse; ламинация под дерево.
-✅ Изготовление от 3 дней. Работаем с 2007 года.
-
-🚚 По Воронежу и до 25 км доставка бесплатная — привезём до подъезда.
-Самовывоз бесплатно: Ленинский проспект 20/1, будни 9:30–18:00.
-
-📏 Напишите в чат: размеры · открывание · нужны ли подоконники и отливы.
-💬 Посчитаем и ответим в течение 15 минут.
-Нашли дешевле? Пришлите чужой расчёт — сравним по комплектации.
-
-Сохраните объявление в Избранное ⭐ — заводские цены будут под рукой.]]></Description>
-
-
-
-    <Price>1300</Price>
-
-
-
-    <Address>Воронеж, Плехановская улица</Address>
-
-
-
-    <Images>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_kvartira_s/01.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_kvartira_s/02.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_kvartira_s/03.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_kvartira_s/04.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_kvartira_s/05.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_kvartira_s/06.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_kvartira_s/07.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_kvartira_s/08.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_kvartira_s/09.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/carousel10/w2_kvartira_s/10.jpg"/>
-    </Images>
-
-
-
-    <Promo>Manual</Promo>
-
-
-
-    <PromoManualOptions>
-
-
-
-      <Item>
-
-
-
-        <Bid>5</Bid>
-
-
-
-        <DailyLimit>1500</DailyLimit>
-
-
-
-      </Item>
-
-
-
-    </PromoManualOptions>
-
-
-
-  </Ad>
-
-
-
-  <Ad>
     <Id>EP_REG_BORIS</Id>
     <AllowEmail>Нет</AllowEmail>
     <ManagerName>Эталон Пласт</ManagerName>
@@ -3207,4 +2791,1355 @@
       </Item>
     </PromoManualOptions>
   </Ad>
+
+
+  <Ad>
+    <Id>EP_OKO_VRN1</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Пластиковые окна и двери с доставкой</Title>
+    <Description><![CDATA[❗Пластиковые окна и двери ПВХ — напрямую с завода-изготовителя❗
+🛠 Только под заказ — без монтажа и наценок!
+
+Монтаж не предоставляем — вы платите только за изделие и экономите, наняв установщика отдельно (через Авито или знакомую бригаду). Это дешевле, чем готовое «под ключ».
+
+📐 Для расчёта пришлите в чат:
+1. Ширину и высоту изделия
+2. Тип открывания: глухое / поворотное / поворотно-откидное
+3. Или просто фото схемы на бумаге — всё поймём.
+
+🟢 Почему выбирают нас:
+✔ Работаем с 2007 года, официальный договор
+✔ Изделия на любой бюджет: от эконом до премиум (VEKA, REHAU, KBE, Хагель)
+✔ Напрямую с завода-изготовителя — заводская цена, без посредников
+✔ Изготовление — от 3 дней
+✔ Ответ с ценой — в течение 15 минут
+✔ Для организаций — оплата по счёту с НДС
+
+📦 Получение:
+🏠 Самовывоз — Воронеж, Ленинский проспект 20/1 (ост. «Гипрокаучук»), будни 9:30–18:00, бесплатно
+🚚 По Воронежу и до 25 км — доставка бесплатно, до подъезда
+🚛 По области — заводским рейсом по графику, бесплатно от 2–3 изделий (разгрузка силами покупателя)
+
+❤️ Добавьте объявление в избранное, чтобы не потерять.
+
+💰 Цена 1400 ₽ указана за изделие с параметрами:
+— Ширина: 500 мм
+— Высота: 500 мм
+— Тип: глухое
+— Профиль: Хагель 58 мм
+— Цвет: белый
+— Стеклопакет: 1-камерный
+Другой размер? Пришлите свои размеры — посчитаем за 15 минут.
+
+🎁 Нашли дешевле? Пришлите чужой расчёт — сравним по комплектации и покажем разницу.
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.]]></Description>
+    <Price>1400</Price>
+    <Address>Воронеж, Ленинский проспект, 20/1</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn1_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn1_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn1_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn1_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn1_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn1_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_OKO_VRN2</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Пластиковые окна и двери пвх</Title>
+    <Description><![CDATA[❗ПЛАСТИКОВЫЕ ОКНА И ДВЕРИ ПВХ — ЗАВОДСКАЯ ЦЕНА❗
+Без замеров, без установки, без переплат.
+
+📩 Хотите сэкономить? Напишите — рассчитаем под ваш бюджет за 15 минут!
+🎁 Нашли дешевле? Пришлите чужой расчёт — сравним по комплектации и покажем разницу.
+
+📐 Для расчёта пришлите в чат:
+1. Ширину и высоту изделия
+2. Тип открывания: глухое / поворотное / поворотно-откидное
+3. Или просто фото схемы на бумаге — всё поймём.
+
+🟢 Почему выбирают нас:
+✔ Работаем с 2007 года, официальный договор
+✔ Изделия на любой бюджет: от эконом до премиум (VEKA, REHAU, KBE, Хагель)
+✔ Напрямую с завода-изготовителя — заводская цена, без посредников
+✔ Изготовление — от 3 дней
+✔ Ответ с ценой — в течение 15 минут
+✔ Для организаций — оплата по счёту с НДС
+
+📦 Получение:
+🏠 Самовывоз — Воронеж, Ленинский проспект 20/1 (ост. «Гипрокаучук»), будни 9:30–18:00, бесплатно
+🚚 По Воронежу и до 25 км — доставка бесплатно, до подъезда
+🚛 По области — заводским рейсом по графику, бесплатно от 2–3 изделий (разгрузка силами покупателя)
+
+💰 Цена 1800 ₽ указана за изделие с параметрами:
+— Ширина: 600 мм
+— Высота: 600 мм
+— Тип: глухое
+— Профиль: Хагель 58 мм
+— Цвет: белый
+— Стеклопакет: 1-камерный
+Другой размер? Пришлите свои размеры — посчитаем за 15 минут.
+
+❤️ Добавьте объявление в избранное, чтобы не потерять.
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.]]></Description>
+    <Price>1800</Price>
+    <Address>Воронеж, Коминтерновский район</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn2_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn2_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn2_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn2_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn2_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn2_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_OKO_VRN3</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Пластиковые окна и двери напрямую с завода</Title>
+    <Description><![CDATA[❗Окна и двери ПВХ напрямую с завода-изготовителя❗
+Без монтажа, без переплат и посредников — по честным ценам!
+
+Строите сами? Есть бригада? Вы платите только за изделие — без замерщика и монтажников.
+
+🟢 Почему выбирают нас:
+✔ Работаем с 2007 года, официальный договор
+✔ Изделия на любой бюджет: от эконом до премиум (VEKA, REHAU, KBE, Хагель)
+✔ Напрямую с завода-изготовителя — заводская цена, без посредников
+✔ Изготовление — от 3 дней
+✔ Ответ с ценой — в течение 15 минут
+✔ Для организаций — оплата по счёту с НДС
+
+📦 Получение:
+🏠 Самовывоз — Воронеж, Ленинский проспект 20/1 (ост. «Гипрокаучук»), будни 9:30–18:00, бесплатно
+🚚 По Воронежу и до 25 км — доставка бесплатно, до подъезда
+🚛 По области — заводским рейсом по графику, бесплатно от 2–3 изделий (разгрузка силами покупателя)
+
+📐 Для расчёта пришлите в чат:
+1. Ширину и высоту изделия
+2. Тип открывания: глухое / поворотное / поворотно-откидное
+3. Или просто фото схемы на бумаге — всё поймём.
+
+💰 Цена 2400 ₽ указана за изделие с параметрами:
+— Ширина: 600 мм
+— Высота: 900 мм
+— Тип: поворотно-откидное
+— Профиль: Хагель 58 мм
+— Цвет: белый
+— Стеклопакет: 1-камерный
+Другой размер? Пришлите свои размеры — посчитаем за 15 минут.
+
+❤️ Добавьте объявление в избранное, чтобы не потерять.
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.]]></Description>
+    <Price>2400</Price>
+    <Address>Воронеж, Левобережный район</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn3_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn3_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn3_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn3_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn3_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn3_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_OKO_VRN4</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Пластиковые окна без монтажа на заказ</Title>
+    <Description><![CDATA[❗Пластиковые окна и двери ПВХ — напрямую с завода-изготовителя❗
+🛠 Только под заказ — без монтажа и наценок!
+
+Монтаж не предоставляем — вы платите только за изделие и экономите, наняв установщика отдельно (через Авито или знакомую бригаду). Это дешевле, чем готовое «под ключ».
+
+📐 Для расчёта пришлите в чат:
+1. Ширину и высоту изделия
+2. Тип открывания: глухое / поворотное / поворотно-откидное
+3. Или просто фото схемы на бумаге — всё поймём.
+
+🟢 Почему выбирают нас:
+✔ Работаем с 2007 года, официальный договор
+✔ Изделия на любой бюджет: от эконом до премиум (VEKA, REHAU, KBE, Хагель)
+✔ Напрямую с завода-изготовителя — заводская цена, без посредников
+✔ Изготовление — от 3 дней
+✔ Ответ с ценой — в течение 15 минут
+✔ Для организаций — оплата по счёту с НДС
+
+📦 Получение:
+🏠 Самовывоз — Воронеж, Ленинский проспект 20/1 (ост. «Гипрокаучук»), будни 9:30–18:00, бесплатно
+🚚 По Воронежу и до 25 км — доставка бесплатно, до подъезда
+🚛 По области — заводским рейсом по графику, бесплатно от 2–3 изделий (разгрузка силами покупателя)
+
+❤️ Добавьте объявление в избранное, чтобы не потерять.
+
+💰 Цена 3400 ₽ указана за изделие с параметрами:
+— Ширина: 800 мм
+— Высота: 1200 мм
+— Тип: поворотно-откидное
+— Профиль: Хагель 58 мм
+— Цвет: белый
+— Стеклопакет: 1-камерный
+Другой размер? Пришлите свои размеры — посчитаем за 15 минут.
+
+🎁 Нашли дешевле? Пришлите чужой расчёт — сравним по комплектации и покажем разницу.
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.]]></Description>
+    <Price>3400</Price>
+    <Address>Воронеж, Железнодорожный район</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn4_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn4_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn4_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn4_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn4_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn4_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_OKO_VRN5</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Окна двери пвх напрямую с завода на заказ</Title>
+    <Description><![CDATA[❗ПЛАСТИКОВЫЕ ОКНА И ДВЕРИ ПВХ — ЗАВОДСКАЯ ЦЕНА❗
+Без замеров, без установки, без переплат.
+
+📩 Хотите сэкономить? Напишите — рассчитаем под ваш бюджет за 15 минут!
+🎁 Нашли дешевле? Пришлите чужой расчёт — сравним по комплектации и покажем разницу.
+
+📐 Для расчёта пришлите в чат:
+1. Ширину и высоту изделия
+2. Тип открывания: глухое / поворотное / поворотно-откидное
+3. Или просто фото схемы на бумаге — всё поймём.
+
+🟢 Почему выбирают нас:
+✔ Работаем с 2007 года, официальный договор
+✔ Изделия на любой бюджет: от эконом до премиум (VEKA, REHAU, KBE, Хагель)
+✔ Напрямую с завода-изготовителя — заводская цена, без посредников
+✔ Изготовление — от 3 дней
+✔ Ответ с ценой — в течение 15 минут
+✔ Для организаций — оплата по счёту с НДС
+
+📦 Получение:
+🏠 Самовывоз — Воронеж, Ленинский проспект 20/1 (ост. «Гипрокаучук»), будни 9:30–18:00, бесплатно
+🚚 По Воронежу и до 25 км — доставка бесплатно, до подъезда
+🚛 По области — заводским рейсом по графику, бесплатно от 2–3 изделий (разгрузка силами покупателя)
+
+💰 Цена 5650 ₽ указана за изделие с параметрами:
+— Ширина: 1000 мм
+— Высота: 1500 мм
+— Тип: поворотно-откидное
+— Профиль: Хагель 58 мм
+— Цвет: белый
+— Стеклопакет: 2-камерный
+Другой размер? Пришлите свои размеры — посчитаем за 15 минут.
+
+❤️ Добавьте объявление в избранное, чтобы не потерять.
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.]]></Description>
+    <Price>5650</Price>
+    <Address>Воронеж, Центральный район</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn5_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn5_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn5_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn5_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn5_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_vrn5_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_OKO_USMAN</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Окна пвх без монтажа с доставкой</Title>
+    <Description><![CDATA[❗Окна и двери ПВХ напрямую с завода-изготовителя❗
+Без монтажа, без переплат и посредников — по честным ценам!
+
+Строите сами? Есть бригада? Вы платите только за изделие — без замерщика и монтажников.
+
+🟢 Почему выбирают нас:
+✔ Работаем с 2007 года, официальный договор
+✔ Изделия на любой бюджет: от эконом до премиум (VEKA, REHAU, KBE, Хагель)
+✔ Напрямую с завода-изготовителя — заводская цена, без посредников
+✔ Изготовление — от 3 дней
+✔ Ответ с ценой — в течение 15 минут
+✔ Для организаций — оплата по счёту с НДС
+
+📦 Получение:
+🏠 Самовывоз — Воронеж, Ленинский проспект 20/1 (ост. «Гипрокаучук»), будни 9:30–18:00, бесплатно
+🚚 По Воронежу и до 25 км — доставка бесплатно, до подъезда
+🚛 По области — заводским рейсом по графику, бесплатно от 2–3 изделий (разгрузка силами покупателя)
+
+📐 Для расчёта пришлите в чат:
+1. Ширину и высоту изделия
+2. Тип открывания: глухое / поворотное / поворотно-откидное
+3. Или просто фото схемы на бумаге — всё поймём.
+
+💰 Цена 1750 ₽ указана за изделие с параметрами:
+— Ширина: 500 мм
+— Высота: 700 мм
+— Тип: глухое
+— Профиль: Хагель 58 мм
+— Цвет: белый
+— Стеклопакет: 1-камерный
+Другой размер? Пришлите свои размеры — посчитаем за 15 минут.
+
+❤️ Добавьте объявление в избранное, чтобы не потерять.
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.]]></Description>
+    <Price>1750</Price>
+    <Address>Воронежская обл., Новая Усмань</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_usman_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_usman_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_usman_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_usman_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_usman_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_usman_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_OKO_SEMIL</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Окна пвх без монтажа</Title>
+    <Description><![CDATA[❗Пластиковые окна и двери ПВХ — напрямую с завода-изготовителя❗
+🛠 Только под заказ — без монтажа и наценок!
+
+Монтаж не предоставляем — вы платите только за изделие и экономите, наняв установщика отдельно (через Авито или знакомую бригаду). Это дешевле, чем готовое «под ключ».
+
+📐 Для расчёта пришлите в чат:
+1. Ширину и высоту изделия
+2. Тип открывания: глухое / поворотное / поворотно-откидное
+3. Или просто фото схемы на бумаге — всё поймём.
+
+🟢 Почему выбирают нас:
+✔ Работаем с 2007 года, официальный договор
+✔ Изделия на любой бюджет: от эконом до премиум (VEKA, REHAU, KBE, Хагель)
+✔ Напрямую с завода-изготовителя — заводская цена, без посредников
+✔ Изготовление — от 3 дней
+✔ Ответ с ценой — в течение 15 минут
+✔ Для организаций — оплата по счёту с НДС
+
+📦 Получение:
+🏠 Самовывоз — Воронеж, Ленинский проспект 20/1 (ост. «Гипрокаучук»), будни 9:30–18:00, бесплатно
+🚚 По Воронежу и до 25 км — доставка бесплатно, до подъезда
+🚛 По области — заводским рейсом по графику, бесплатно от 2–3 изделий (разгрузка силами покупателя)
+
+❤️ Добавьте объявление в избранное, чтобы не потерять.
+
+💰 Цена 1950 ₽ указана за изделие с параметрами:
+— Ширина: 500 мм
+— Высота: 800 мм
+— Тип: глухое
+— Профиль: Хагель 58 мм
+— Цвет: белый
+— Стеклопакет: 1-камерный
+Другой размер? Пришлите свои размеры — посчитаем за 15 минут.
+
+🎁 Нашли дешевле? Пришлите чужой расчёт — сравним по комплектации и покажем разницу.
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.]]></Description>
+    <Price>1950</Price>
+    <Address>Воронежская обл., Семилуки</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_semil_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_semil_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_semil_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_semil_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_semil_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_semil_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_OKO_LISKI</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Пластиковые окна пвх напрямую с завода на заказ</Title>
+    <Description><![CDATA[❗ПЛАСТИКОВЫЕ ОКНА И ДВЕРИ ПВХ — ЗАВОДСКАЯ ЦЕНА❗
+Без замеров, без установки, без переплат.
+
+📩 Хотите сэкономить? Напишите — рассчитаем под ваш бюджет за 15 минут!
+🎁 Нашли дешевле? Пришлите чужой расчёт — сравним по комплектации и покажем разницу.
+
+📐 Для расчёта пришлите в чат:
+1. Ширину и высоту изделия
+2. Тип открывания: глухое / поворотное / поворотно-откидное
+3. Или просто фото схемы на бумаге — всё поймём.
+
+🟢 Почему выбирают нас:
+✔ Работаем с 2007 года, официальный договор
+✔ Изделия на любой бюджет: от эконом до премиум (VEKA, REHAU, KBE, Хагель)
+✔ Напрямую с завода-изготовителя — заводская цена, без посредников
+✔ Изготовление — от 3 дней
+✔ Ответ с ценой — в течение 15 минут
+✔ Для организаций — оплата по счёту с НДС
+
+📦 Получение:
+🏠 Самовывоз — Воронеж, Ленинский проспект 20/1 (ост. «Гипрокаучук»), будни 9:30–18:00, бесплатно
+🚚 По Воронежу и до 25 км — доставка бесплатно, до подъезда
+🚛 По области — заводским рейсом по графику, бесплатно от 2–3 изделий (разгрузка силами покупателя)
+
+💰 Цена 2950 ₽ указана за изделие с параметрами:
+— Ширина: 700 мм
+— Высота: 1100 мм
+— Тип: поворотно-откидное
+— Профиль: Хагель 58 мм
+— Цвет: белый
+— Стеклопакет: 1-камерный
+Другой размер? Пришлите свои размеры — посчитаем за 15 минут.
+
+❤️ Добавьте объявление в избранное, чтобы не потерять.
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.]]></Description>
+    <Price>2950</Price>
+    <Address>Воронежская обл., Лиски</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_liski_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_liski_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_liski_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_liski_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_liski_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_liski_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_OKO_ROSS</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Пластиковые окна пвх с доставкой с завода</Title>
+    <Description><![CDATA[❗Окна и двери ПВХ напрямую с завода-изготовителя❗
+Без монтажа, без переплат и посредников — по честным ценам!
+
+Строите сами? Есть бригада? Вы платите только за изделие — без замерщика и монтажников.
+
+🟢 Почему выбирают нас:
+✔ Работаем с 2007 года, официальный договор
+✔ Изделия на любой бюджет: от эконом до премиум (VEKA, REHAU, KBE, Хагель)
+✔ Напрямую с завода-изготовителя — заводская цена, без посредников
+✔ Изготовление — от 3 дней
+✔ Ответ с ценой — в течение 15 минут
+✔ Для организаций — оплата по счёту с НДС
+
+📦 Получение:
+🏠 Самовывоз — Воронеж, Ленинский проспект 20/1 (ост. «Гипрокаучук»), будни 9:30–18:00, бесплатно
+🚚 По Воронежу и до 25 км — доставка бесплатно, до подъезда
+🚛 По области — заводским рейсом по графику, бесплатно от 2–3 изделий (разгрузка силами покупателя)
+
+📐 Для расчёта пришлите в чат:
+1. Ширину и высоту изделия
+2. Тип открывания: глухое / поворотное / поворотно-откидное
+3. Или просто фото схемы на бумаге — всё поймём.
+
+💰 Цена 2550 ₽ указана за изделие с параметрами:
+— Ширина: 700 мм
+— Высота: 900 мм
+— Тип: глухое
+— Профиль: Хагель 58 мм
+— Цвет: белый
+— Стеклопакет: 1-камерный
+Другой размер? Пришлите свои размеры — посчитаем за 15 минут.
+
+❤️ Добавьте объявление в избранное, чтобы не потерять.
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.]]></Description>
+    <Price>2550</Price>
+    <Address>Воронежская обл., Россошь</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_ross_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_ross_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_ross_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_ross_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_ross_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_ross_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_OKO_BORIS</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Пластиковые окна напрямую с завода с доставкой</Title>
+    <Description><![CDATA[❗Пластиковые окна и двери ПВХ — напрямую с завода-изготовителя❗
+🛠 Только под заказ — без монтажа и наценок!
+
+Монтаж не предоставляем — вы платите только за изделие и экономите, наняв установщика отдельно (через Авито или знакомую бригаду). Это дешевле, чем готовое «под ключ».
+
+📐 Для расчёта пришлите в чат:
+1. Ширину и высоту изделия
+2. Тип открывания: глухое / поворотное / поворотно-откидное
+3. Или просто фото схемы на бумаге — всё поймём.
+
+🟢 Почему выбирают нас:
+✔ Работаем с 2007 года, официальный договор
+✔ Изделия на любой бюджет: от эконом до премиум (VEKA, REHAU, KBE, Хагель)
+✔ Напрямую с завода-изготовителя — заводская цена, без посредников
+✔ Изготовление — от 3 дней
+✔ Ответ с ценой — в течение 15 минут
+✔ Для организаций — оплата по счёту с НДС
+
+📦 Получение:
+🏠 Самовывоз — Воронеж, Ленинский проспект 20/1 (ост. «Гипрокаучук»), будни 9:30–18:00, бесплатно
+🚚 По Воронежу и до 25 км — доставка бесплатно, до подъезда
+🚛 По области — заводским рейсом по графику, бесплатно от 2–3 изделий (разгрузка силами покупателя)
+
+❤️ Добавьте объявление в избранное, чтобы не потерять.
+
+💰 Цена 2200 ₽ указана за изделие с параметрами:
+— Ширина: 600 мм
+— Высота: 800 мм
+— Тип: глухое
+— Профиль: Хагель 58 мм
+— Цвет: белый
+— Стеклопакет: 1-камерный
+Другой размер? Пришлите свои размеры — посчитаем за 15 минут.
+
+🎁 Нашли дешевле? Пришлите чужой расчёт — сравним по комплектации и покажем разницу.
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.]]></Description>
+    <Price>2200</Price>
+    <Address>Воронежская обл., Борисоглебск</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_boris_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_boris_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_boris_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_boris_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_boris_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_boris_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_AZB_VRN1</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Окна от завода без монтажа</Title>
+    <Description><![CDATA[Предлагаем пластиковые окна на заказ, без монтажа!
+
+( ❗❗❗ ЗАМЕРА И МОНТАЖА НЕТ — ТОЛЬКО ИЗДЕЛИЯ ❗❗❗ )
+
+(🔴 изготовление — от 3 дней 🔴)
+
+Работаем по: Воронеж и пригород.
+(Доставка по г. Воронежу и до 25 км — бесплатно, до подъезда)
+
+ЧТО НУЖНО ДЛЯ РАСЧЁТА:
+1️⃣ Ширина × высота
+2️⃣ Глухое / поворотное / поворотно-откидное
+3️⃣ С москитной сеткой или без
+
+💰 Главный наш плюс: заводская цена — напрямую с завода-изготовителя, без накруток монтажных компаний. Вы платите только за изделие.
+
+▶ Профили: VEKA, REHAU, KBE, Хагель (Provedal — холодный алюминий для балконов)
+
+Мы не навязываем, не обзваниваем, не давим.
+Рассчитаем — а вы сами решите.
+
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.
+
+➕ А также подоконники, отливы и москитные сетки по размерам.
+
+______
+700 × 800
+Партия: В70-17]]></Description>
+    <Price>2450</Price>
+    <Address>Воронеж, Московский проспект</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn1_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn1_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn1_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn1_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn1_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn1_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_AZB_VRN2</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Пластиковые окна от завода без монтажа</Title>
+    <Description><![CDATA[ТОЛЬКО НОВЫЕ ОКНА ПОД ЗАКАЗ!
+
+( ❗❗❗ ЗАМЕРА И МОНТАЖА НЕТ — ТОЛЬКО ИЗДЕЛИЯ ❗❗❗ )
+
+(🔴 изготовление — от 3 дней 🔴)
+
+Работаем с ЭКОНОМ и ПРЕМИУМ сегментом
+
+💰 Главный наш плюс: заводская цена — напрямую с завода-изготовителя, без накруток монтажных компаний. Вы платите только за изделие.
+
+Работаем по: Воронеж и пригород.
+(Доставка по г. Воронежу и до 25 км — бесплатно, до подъезда)
+
+ЧТО НУЖНО ДЛЯ РАСЧЁТА:
+1️⃣ Ширина × высота
+2️⃣ Глухое / поворотное / поворотно-откидное
+3️⃣ С москитной сеткой или без
+
+▶ Профили: VEKA, REHAU, KBE, Хагель (Provedal — холодный алюминий для балконов)
+
+Мы не навязываем, не обзваниваем, не давим.
+Рассчитаем — а вы сами решите.
+
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.
+
+➕ А также подоконники, отливы и москитные сетки по размерам.
+
+______
+900 × 1000
+Партия: В71-20]]></Description>
+    <Price>3250</Price>
+    <Address>Воронеж, улица Кирова</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn2_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn2_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn2_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn2_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn2_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn2_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_AZB_VRN3</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Окна без монтажа с завода / Пластиковые окна</Title>
+    <Description><![CDATA[Пластиковые окна напрямую с завода-изготовителя — БЕЗ МОНТАЖА
+
+( ❗❗❗ ЗАМЕРА И МОНТАЖА НЕТ — ТОЛЬКО ИЗДЕЛИЯ ❗❗❗ )
+
+✅ Идеально подходит, если:
+— устанавливаете самостоятельно
+— есть своя монтажная бригада
+— строите дом или дачу
+— нужен вариант дешевле установки «под ключ»
+
+▶ Профили: VEKA, REHAU, KBE, Хагель (Provedal — холодный алюминий для балконов)
+
+💰 Главный наш плюс: заводская цена — напрямую с завода-изготовителя, без накруток монтажных компаний. Вы платите только за изделие.
+
+Работаем по: Воронеж и пригород.
+(Доставка по г. Воронежу и до 25 км — бесплатно, до подъезда)
+
+ЧТО НУЖНО ДЛЯ РАСЧЁТА:
+1️⃣ Ширина × высота
+2️⃣ Глухое / поворотное / поворотно-откидное
+3️⃣ С москитной сеткой или без
+
+Мы не навязываем, не обзваниваем, не давим.
+Рассчитаем — а вы сами решите.
+
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.
+
+➕ А также подоконники, отливы и москитные сетки по размерам.
+
+______
+1000 × 1000
+Партия: В72-23]]></Description>
+    <Price>3500</Price>
+    <Address>Воронеж, Плехановская улица</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn3_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn3_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn3_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn3_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn3_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn3_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_AZB_VRN4</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Пластиковые окна двери от завода</Title>
+    <Description><![CDATA[Предлагаем пластиковые окна на заказ, без монтажа!
+
+( ❗❗❗ ЗАМЕРА И МОНТАЖА НЕТ — ТОЛЬКО ИЗДЕЛИЯ ❗❗❗ )
+
+(🔴 изготовление — от 3 дней 🔴)
+
+Работаем по: Воронеж и пригород.
+(Доставка по г. Воронежу и до 25 км — бесплатно, до подъезда)
+
+ЧТО НУЖНО ДЛЯ РАСЧЁТА:
+1️⃣ Ширина × высота
+2️⃣ Глухое / поворотное / поворотно-откидное
+3️⃣ С москитной сеткой или без
+
+💰 Главный наш плюс: заводская цена — напрямую с завода-изготовителя, без накруток монтажных компаний. Вы платите только за изделие.
+
+▶ Профили: VEKA, REHAU, KBE, Хагель (Provedal — холодный алюминий для балконов)
+
+Мы не навязываем, не обзваниваем, не давим.
+Рассчитаем — а вы сами решите.
+
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.
+
+➕ А также подоконники, отливы и москитные сетки по размерам.
+
+______
+1000 × 1200
+Партия: В73-26]]></Description>
+    <Price>3950</Price>
+    <Address>Воронеж, Советский район</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn4_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn4_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn4_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn4_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn4_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn4_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_AZB_VRN5</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Окна от завода с доставкой</Title>
+    <Description><![CDATA[ТОЛЬКО НОВЫЕ ОКНА ПОД ЗАКАЗ!
+
+( ❗❗❗ ЗАМЕРА И МОНТАЖА НЕТ — ТОЛЬКО ИЗДЕЛИЯ ❗❗❗ )
+
+(🔴 изготовление — от 3 дней 🔴)
+
+Работаем с ЭКОНОМ и ПРЕМИУМ сегментом
+
+💰 Главный наш плюс: заводская цена — напрямую с завода-изготовителя, без накруток монтажных компаний. Вы платите только за изделие.
+
+Работаем по: Воронеж и пригород.
+(Доставка по г. Воронежу и до 25 км — бесплатно, до подъезда)
+
+ЧТО НУЖНО ДЛЯ РАСЧЁТА:
+1️⃣ Ширина × высота
+2️⃣ Глухое / поворотное / поворотно-откидное
+3️⃣ С москитной сеткой или без
+
+▶ Профили: VEKA, REHAU, KBE, Хагель (Provedal — холодный алюминий для балконов)
+
+Мы не навязываем, не обзваниваем, не давим.
+Рассчитаем — а вы сами решите.
+
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.
+
+➕ А также подоконники, отливы и москитные сетки по размерам.
+
+______
+1200 × 1200
+Партия: В74-29]]></Description>
+    <Price>4550</Price>
+    <Address>Воронеж, Ленинский район</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn5_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn5_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn5_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn5_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn5_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_vrn5_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_AZB_USMAN</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Пластиковые окна от завода с доставкой</Title>
+    <Description><![CDATA[Пластиковые окна напрямую с завода-изготовителя — БЕЗ МОНТАЖА
+
+( ❗❗❗ ЗАМЕРА И МОНТАЖА НЕТ — ТОЛЬКО ИЗДЕЛИЯ ❗❗❗ )
+
+✅ Идеально подходит, если:
+— устанавливаете самостоятельно
+— есть своя монтажная бригада
+— строите дом или дачу
+— нужен вариант дешевле установки «под ключ»
+
+▶ Профили: VEKA, REHAU, KBE, Хагель (Provedal — холодный алюминий для балконов)
+
+💰 Главный наш плюс: заводская цена — напрямую с завода-изготовителя, без накруток монтажных компаний. Вы платите только за изделие.
+
+Работаем по: Новая Усмань и район.
+(Доставка в Новую Усмань — заводским рейсом прямо на объект, бесплатно от 2–3 изделий)
+
+ЧТО НУЖНО ДЛЯ РАСЧЁТА:
+1️⃣ Ширина × высота
+2️⃣ Глухое / поворотное / поворотно-откидное
+3️⃣ С москитной сеткой или без
+
+Мы не навязываем, не обзваниваем, не давим.
+Рассчитаем — а вы сами решите.
+
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.
+
+➕ А также подоконники, отливы и москитные сетки по размерам.
+
+______
+700 × 1000
+Партия: В75-32]]></Description>
+    <Price>2750</Price>
+    <Address>Воронежская обл., Новая Усмань</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_usman_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_usman_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_usman_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_usman_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_usman_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_usman_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_AZB_SEMIL</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Пластиковые окна на заказ</Title>
+    <Description><![CDATA[Предлагаем пластиковые окна на заказ, без монтажа!
+
+( ❗❗❗ ЗАМЕРА И МОНТАЖА НЕТ — ТОЛЬКО ИЗДЕЛИЯ ❗❗❗ )
+
+(🔴 изготовление — от 3 дней 🔴)
+
+Работаем по: Семилуки и район.
+(Условия доставки в Семилуки уточним в чате — или самовывоз из Воронежа)
+
+ЧТО НУЖНО ДЛЯ РАСЧЁТА:
+1️⃣ Ширина × высота
+2️⃣ Глухое / поворотное / поворотно-откидное
+3️⃣ С москитной сеткой или без
+
+💰 Главный наш плюс: заводская цена — напрямую с завода-изготовителя, без накруток монтажных компаний. Вы платите только за изделие.
+
+▶ Профили: VEKA, REHAU, KBE, Хагель (Provedal — холодный алюминий для балконов)
+
+Мы не навязываем, не обзваниваем, не давим.
+Рассчитаем — а вы сами решите.
+
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.
+
+➕ А также подоконники, отливы и москитные сетки по размерам.
+
+______
+800 × 1150
+Партия: В76-35]]></Description>
+    <Price>3300</Price>
+    <Address>Воронежская обл., Семилуки</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_semil_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_semil_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_semil_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_semil_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_semil_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_semil_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_AZB_LISKI</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Окна с доставкой в ваш город</Title>
+    <Description><![CDATA[ТОЛЬКО НОВЫЕ ОКНА ПОД ЗАКАЗ!
+
+( ❗❗❗ ЗАМЕРА И МОНТАЖА НЕТ — ТОЛЬКО ИЗДЕЛИЯ ❗❗❗ )
+
+(🔴 изготовление — от 3 дней 🔴)
+
+Работаем с ЭКОНОМ и ПРЕМИУМ сегментом
+
+💰 Главный наш плюс: заводская цена — напрямую с завода-изготовителя, без накруток монтажных компаний. Вы платите только за изделие.
+
+Работаем по: Лиски и район.
+(Доставка в Лиски — заводским рейсом 1 раз в неделю, бесплатно от 2–3 изделий)
+
+ЧТО НУЖНО ДЛЯ РАСЧЁТА:
+1️⃣ Ширина × высота
+2️⃣ Глухое / поворотное / поворотно-откидное
+3️⃣ С москитной сеткой или без
+
+▶ Профили: VEKA, REHAU, KBE, Хагель (Provedal — холодный алюминий для балконов)
+
+Мы не навязываем, не обзваниваем, не давим.
+Рассчитаем — а вы сами решите.
+
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.
+
+➕ А также подоконники, отливы и москитные сетки по размерам.
+
+______
+900 × 1200
+Партия: В77-38]]></Description>
+    <Price>3700</Price>
+    <Address>Воронежская обл., Лиски</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_liski_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_liski_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_liski_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_liski_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_liski_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_liski_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_AZB_ROSS</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Пластиковые окна и двери</Title>
+    <Description><![CDATA[Пластиковые окна напрямую с завода-изготовителя — БЕЗ МОНТАЖА
+
+( ❗❗❗ ЗАМЕРА И МОНТАЖА НЕТ — ТОЛЬКО ИЗДЕЛИЯ ❗❗❗ )
+
+✅ Идеально подходит, если:
+— устанавливаете самостоятельно
+— есть своя монтажная бригада
+— строите дом или дачу
+— нужен вариант дешевле установки «под ключ»
+
+▶ Профили: VEKA, REHAU, KBE, Хагель (Provedal — холодный алюминий для балконов)
+
+💰 Главный наш плюс: заводская цена — напрямую с завода-изготовителя, без накруток монтажных компаний. Вы платите только за изделие.
+
+Работаем по: Россошь и район.
+(Доставка в Россошь — заводским рейсом 2 раза в неделю, бесплатно от 2–3 изделий)
+
+ЧТО НУЖНО ДЛЯ РАСЧЁТА:
+1️⃣ Ширина × высота
+2️⃣ Глухое / поворотное / поворотно-откидное
+3️⃣ С москитной сеткой или без
+
+Мы не навязываем, не обзваниваем, не давим.
+Рассчитаем — а вы сами решите.
+
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.
+
+➕ А также подоконники, отливы и москитные сетки по размерам.
+
+______
+900 × 1400
+Партия: В78-41]]></Description>
+    <Price>4150</Price>
+    <Address>Воронежская обл., Россошь</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_ross_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_ross_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_ross_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_ross_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_ross_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_ross_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
+  <Ad>
+    <Id>EP_AZB_BORIS</Id>
+    <AllowEmail>Нет</AllowEmail>
+    <ManagerName>Эталон Пласт</ManagerName>
+    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Окна и балконы</GoodsType>
+    <GoodsSubType>Окна</GoodsSubType>
+    <MaterialType>Пластик</MaterialType>
+    <ProfileBrand>Другой</ProfileBrand>
+    <BusinessSubType>Поворотно-откидное</BusinessSubType>
+    <AdType>Товар от производителя</AdType>
+    <OperationType>Продам</OperationType>
+    <Condition>Новое</Condition>
+    <Title>Окна без монтажа от завода</Title>
+    <Description><![CDATA[Предлагаем пластиковые окна на заказ, без монтажа!
+
+( ❗❗❗ ЗАМЕРА И МОНТАЖА НЕТ — ТОЛЬКО ИЗДЕЛИЯ ❗❗❗ )
+
+(🔴 изготовление — от 3 дней 🔴)
+
+Работаем по: Борисоглебск и район.
+(Доставка в Борисоглебск — заводским рейсом 2 раза в неделю, бесплатно от 2–3 изделий)
+
+ЧТО НУЖНО ДЛЯ РАСЧЁТА:
+1️⃣ Ширина × высота
+2️⃣ Глухое / поворотное / поворотно-откидное
+3️⃣ С москитной сеткой или без
+
+💰 Главный наш плюс: заводская цена — напрямую с завода-изготовителя, без накруток монтажных компаний. Вы платите только за изделие.
+
+▶ Профили: VEKA, REHAU, KBE, Хагель (Provedal — холодный алюминий для балконов)
+
+Мы не навязываем, не обзваниваем, не давим.
+Рассчитаем — а вы сами решите.
+
+💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.
+
+➕ А также подоконники, отливы и москитные сетки по размерам.
+
+______
+1100 × 1200
+Партия: В79-44]]></Description>
+    <Price>4250</Price>
+    <Address>Воронежская обл., Борисоглебск</Address>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_boris_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_boris_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_boris_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_boris_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_boris_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_boris_6.jpg"/>
+    </Images>
+    <Promo>Manual</Promo>
+    <PromoManualOptions>
+      <Item>
+        <Bid>5</Bid>
+        <DailyLimit>1500</DailyLimit>
+      </Item>
+    </PromoManualOptions>
+  </Ad>
+
 </Ads>
