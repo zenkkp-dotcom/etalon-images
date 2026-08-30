@@ -592,7 +592,7 @@
 
 
 
-        <Bid>9</Bid>
+        <Bid>5</Bid>
 
 
 
@@ -3420,7 +3420,7 @@
     <PromoManualOptions>
       <Item>
         <Bid>5</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>100</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -4076,7 +4076,7 @@ ______
     <PromoManualOptions>
       <Item>
         <Bid>5</Bid>
-        <DailyLimit>200</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
