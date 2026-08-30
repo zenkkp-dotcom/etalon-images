@@ -592,7 +592,7 @@
 
 
 
-        <Bid>5</Bid>
+        <Bid>9</Bid>
 
 
 
@@ -3420,7 +3420,7 @@
     <PromoManualOptions>
       <Item>
         <Bid>5</Bid>
-        <DailyLimit>100</DailyLimit>
+        <DailyLimit>1500</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -4010,73 +4010,6 @@ ______
       <Item>
         <Bid>5</Bid>
         <DailyLimit>1500</DailyLimit>
-      </Item>
-    </PromoManualOptions>
-  </Ad>
-
-  <Ad>
-    <Id>EP_AZB_ROSS</Id>
-    <AllowEmail>Нет</AllowEmail>
-    <ManagerName>Эталон Пласт</ManagerName>
-    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Category>Ремонт и строительство</Category>
-    <GoodsType>Окна и балконы</GoodsType>
-    <GoodsSubType>Окна</GoodsSubType>
-    <MaterialType>Пластик</MaterialType>
-    <ProfileBrand>Другой</ProfileBrand>
-    <BusinessSubType>Поворотно-откидное</BusinessSubType>
-    <AdType>Товар от производителя</AdType>
-    <OperationType>Продам</OperationType>
-    <Condition>Новое</Condition>
-    <Title>Пластиковые окна и двери</Title>
-    <Description><![CDATA[Пластиковые окна напрямую с завода-изготовителя — БЕЗ МОНТАЖА
-
-( ❗❗❗ ЗАМЕРА И МОНТАЖА НЕТ — ТОЛЬКО ИЗДЕЛИЯ ❗❗❗ )
-
-✅ Идеально подходит, если:
-— устанавливаете самостоятельно
-— есть своя монтажная бригада
-— строите дом или дачу
-— нужен вариант дешевле установки «под ключ»
-
-▶ Профили: VEKA, REHAU, KBE, Хагель (Provedal — холодный алюминий для балконов)
-
-💰 Главный наш плюс: заводская цена — напрямую с завода-изготовителя, без накруток монтажных компаний. Вы платите только за изделие.
-
-Работаем по: Россошь и район.
-(Доставка в Россошь — заводским рейсом 2 раза в неделю: в сам город привезём даже одно окно; соседние пункты до 20 км — от 5 изделий)
-
-ЧТО НУЖНО ДЛЯ РАСЧЁТА:
-1️⃣ Ширина × высота
-2️⃣ Глухое / поворотное / поворотно-откидное
-3️⃣ С москитной сеткой или без
-
-Мы не навязываем, не обзваниваем, не давим.
-Рассчитаем — а вы сами решите.
-
-💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.
-
-➕ А также подоконники, отливы и москитные сетки по размерам.
-
-______
-900 × 1400
-Партия: В78-41]]></Description>
-    <Price>4150</Price>
-    <Address>Воронежская обл., Россошь</Address>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_ross_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_ross_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_ross_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_ross_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_ross_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_ross_6.jpg"/>
-    </Images>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Bid>5</Bid>
-        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
