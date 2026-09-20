@@ -4319,9 +4319,8 @@ ______
     <Purpose>Дом</Purpose>
     <MaterialType>Пластик</MaterialType>
     <Mirror>Нет</Mirror>
-    <ThermalBreak>Нет</ThermalBreak>
+    <ThermalRupture>Нет</ThermalRupture>
     <Color>Белый</Color>
-    <OpeningSide>Правая</OpeningSide>
     <Width>800</Width>
     <Height>2000</Height>
     <AdType>Товар от производителя</AdType>
@@ -4374,13 +4373,12 @@ ______
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Двери</GoodsType>
-    <DoorType>Межкомнатные</DoorType>
-    <Purpose>Квартира</Purpose>
+    <DoorType>Входные</DoorType>
+    <Purpose>Дом</Purpose>
     <MaterialType>Пластик</MaterialType>
     <Mirror>Нет</Mirror>
-    <ThermalBreak>Нет</ThermalBreak>
+    <ThermalRupture>Нет</ThermalRupture>
     <Color>Белый</Color>
-    <OpeningSide>Правая</OpeningSide>
     <Width>800</Width>
     <Height>2000</Height>
     <AdType>Товар от производителя</AdType>
@@ -4436,9 +4434,8 @@ ______
     <Purpose>Дом</Purpose>
     <MaterialType>Пластик</MaterialType>
     <Mirror>Нет</Mirror>
-    <ThermalBreak>Нет</ThermalBreak>
+    <ThermalRupture>Нет</ThermalRupture>
     <Color>Белый</Color>
-    <OpeningSide>Правая</OpeningSide>
     <Width>800</Width>
     <Height>2000</Height>
     <AdType>Товар от производителя</AdType>
