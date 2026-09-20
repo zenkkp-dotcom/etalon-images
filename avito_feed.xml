@@ -4315,7 +4315,7 @@ ______
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Двери</GoodsType>
-    <GoodsSubType>Входные</GoodsSubType>
+    <DoorType>Входные</DoorType>
     <Purpose>Дом</Purpose>
     <MaterialType>Пластик</MaterialType>
     <Mirror>Нет</Mirror>
@@ -4374,7 +4374,7 @@ ______
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Двери</GoodsType>
-    <GoodsSubType>Межкомнатные</GoodsSubType>
+    <DoorType>Межкомнатные</DoorType>
     <Purpose>Квартира</Purpose>
     <MaterialType>Пластик</MaterialType>
     <Mirror>Нет</Mirror>
@@ -4432,7 +4432,7 @@ ______
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Category>Ремонт и строительство</Category>
     <GoodsType>Двери</GoodsType>
-    <GoodsSubType>Входные</GoodsSubType>
+    <DoorType>Входные</DoorType>
     <Purpose>Дом</Purpose>
     <MaterialType>Пластик</MaterialType>
     <Mirror>Нет</Mirror>
