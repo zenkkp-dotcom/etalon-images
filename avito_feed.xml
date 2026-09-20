@@ -4320,6 +4320,7 @@ ______
     <MaterialType>Пластик</MaterialType>
     <Mirror>Нет</Mirror>
     <ThermalRupture>Нет</ThermalRupture>
+    <OpeningSide>Правое</OpeningSide>
     <Color>Белый</Color>
     <Width>800</Width>
     <Height>2000</Height>
@@ -4378,6 +4379,7 @@ ______
     <MaterialType>Пластик</MaterialType>
     <Mirror>Нет</Mirror>
     <ThermalRupture>Нет</ThermalRupture>
+    <OpeningSide>Правое</OpeningSide>
     <Color>Белый</Color>
     <Width>800</Width>
     <Height>2000</Height>
@@ -4435,6 +4437,7 @@ ______
     <MaterialType>Пластик</MaterialType>
     <Mirror>Нет</Mirror>
     <ThermalRupture>Нет</ThermalRupture>
+    <OpeningSide>Правое</OpeningSide>
     <Color>Белый</Color>
     <Width>800</Width>
     <Height>2000</Height>
