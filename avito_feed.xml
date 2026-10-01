@@ -3326,9 +3326,9 @@
 🚚 Доставка в Лиски: привезём даже одно окно.
 🚛 В ближайшие населённые пункты (до 20 км) доставка только при заказе от 10 м² остекления. Разгрузка ваша.
 
-💰 Цена 2950 ₽ указана за изделие с параметрами:
-— Ширина: 700 мм
-— Высота: 1100 мм
+💰 Цена 1650 ₽ указана за изделие с параметрами:
+— Ширина: 550 мм
+— Высота: 550 мм
 — Тип: глухое
 — Профиль: Хагель 58 мм
 — Цвет: белый
@@ -3337,7 +3337,7 @@
 
 ❤️ Добавьте объявление в избранное, чтобы не потерять.
 💬 Пишите в чат — отвечаем быстро, даже вечером и ночью.]]></Description>
-    <Price>2950</Price>
+    <Price>1650</Price>
     <Address>Воронежская обл., Лиски</Address>
     <Images>
       <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_oko_liski_1.jpg"/>
@@ -3865,9 +3865,9 @@ ______
 ➕ А также подоконники, отливы и москитные сетки по размерам.
 
 ______
-700 × 1000
-Партия: В75-32]]></Description>
-    <Price>2750</Price>
+500 × 500 глухое — 1550 ₽
+Другой размер? Пришлите — посчитаем за 15 минут.]]></Description>
+    <Price>1550</Price>
     <Address>Воронежская обл., Новая Усмань</Address>
     <Images>
       <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/blocks2/ep_azb_usman_1.jpg"/>
@@ -4237,65 +4237,6 @@ ______
     <PromoManualOptions>
       <Item>
         <Bid>35</Bid>
-      </Item>
-    </PromoManualOptions>
-  </Ad>
-  <Ad>
-    <Id>EP_DV_VHOD</Id>
-    <AllowEmail>Нет</AllowEmail>
-    <ManagerName>Эталон Пласт</ManagerName>
-    <ContactPhone>+7 (473) 261-25-95</ContactPhone>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Category>Ремонт и строительство</Category>
-    <GoodsType>Двери</GoodsType>
-    <DoorType>Входные</DoorType>
-    <Purpose>Дом</Purpose>
-    <MaterialType>Пластик</MaterialType>
-    <Mirror>Нет</Mirror>
-    <ThermalRupture>Нет</ThermalRupture>
-    <Shape>Правая</Shape>
-    <Color>Белый</Color>
-    <Width>800</Width>
-    <Height>2000</Height>
-    <AdType>Товар от производителя</AdType>
-    <Condition>Новое</Condition>
-    <Availability>Под заказ</Availability>
-    <Title>Входная дверь ПВХ под ваш размер</Title>
-    <Price>21500</Price>
-    <Description>Нужна входная пластиковая дверь, которая не пропускает холод? Изготовим под ваш размер.
-
- «Эталон Пласт» — окна и двери в Воронеже с 2007 года. Дверь без монтажа: платите только за изделие, ставит ваш мастер.
-
- 💰 Входная дверь 800×2000 (сэндвич-панель, усиленный профиль, многозапорный замок) — от 21 500 ₽.
- Напишите размеры проёма — посчитаем в чате в течение 15 минут (в рабочее время).
-
- ✅ Усиленный дверной профиль — тёплая, не дует, не ведёт.
- ✅ Глухая, с сэндвич-панелью или со стеклом. Ламинация под дерево — по каталогу.
- ✅ Открывание внутрь или наружу, левая или правая — под ваш проём.
- ✅ Изготовление — 7–10 дней.
-
- 🚚 Самовывоз со склада на Ленинском проспекте 20/1 — бесплатно. Доставка по Воронежу — при заказе от 3 изделий.
-
- 💬 Напишите в чат Авито: ширина × высота проёма, глухая или со стеклом, сторона открывания. Фото проёма — плюс.
-
- Сохраните в Избранное ⭐. Пишите в любое время — вечером и ночью тоже на связи!</Description>
-    <Address>Воронеж, Ленинский проспект, 20/1</Address>
-    <Images>
-            <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/test6_dv_vhod/01.jpg"/>
-            <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/test6_dv_vhod/02.jpg"/>
-            <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/test6_dv_vhod/03.jpg"/>
-            <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/test6_dv_vhod/04.jpg"/>
-            <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/test6_dv_vhod/05.jpg"/>
-            <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/test6_dv_vhod/06.jpg"/>
-            <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/test6_dv_vhod/07.jpg"/>
-            <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/test6_dv_vhod/08.jpg"/>
-            <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/test6_dv_vhod/09.jpg"/>
-            <Image url="https://raw.githubusercontent.com/zenkkp-dotcom/etalon-images/main/test6_dv_vhod/10.jpg"/>
-    </Images>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>
-      <Item>
-        <Bid>6</Bid>
       </Item>
     </PromoManualOptions>
   </Ad>
