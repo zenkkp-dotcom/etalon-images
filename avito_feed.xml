@@ -266,7 +266,7 @@
 
 
 
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
 
 
 
@@ -1744,11 +1744,11 @@
 
 
 
-        <Bid>9</Bid>
+        <Bid>6</Bid>
 
 
 
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
 
 
 
@@ -2581,7 +2581,7 @@
     <PromoManualOptions>
       <Item>
         <Bid>5</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -2972,7 +2972,7 @@
     <PromoManualOptions>
       <Item>
         <Bid>6</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -3117,7 +3117,7 @@
     <PromoManualOptions>
       <Item>
         <Bid>6</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -3262,7 +3262,7 @@
     <PromoManualOptions>
       <Item>
         <Bid>5</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -3408,7 +3408,7 @@
     <PromoManualOptions>
       <Item>
         <Bid>5</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -3481,7 +3481,7 @@
     <PromoManualOptions>
       <Item>
         <Bid>5</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -3773,7 +3773,7 @@ ______
     <PromoManualOptions>
       <Item>
         <Bid>6</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -3920,7 +3920,7 @@ ______
     <PromoManualOptions>
       <Item>
         <Bid>6</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -4145,7 +4145,7 @@ ______
     <PromoManualOptions>
       <Item>
         <Bid>5</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -4279,7 +4279,7 @@ ______
     <Promo>Manual</Promo>
     <PromoManualOptions>
       <Item>
-        <Bid>22</Bid>
+        <Bid>6</Bid><DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -4384,7 +4384,7 @@ ______
     <Promo>Manual</Promo>
     <PromoManualOptions>
       <Item>
-        <Bid>35</Bid>
+        <Bid>6</Bid><DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -4442,7 +4442,7 @@ ______
     <Promo>Manual</Promo>
     <PromoManualOptions>
       <Item>
-        <Bid>6</Bid>
+        <Bid>6</Bid><DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -5176,7 +5176,7 @@ CPОЧHO ПИШИTE HАМ В ЧАТ!!!
     <PromoManualOptions>
       <Item>
         <Bid>6</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -5713,7 +5713,7 @@ CPОЧHO ПИШИTE HАМ В ЧАТ!!!
     <PromoManualOptions>
       <Item>
         <Bid>6</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -5868,7 +5868,7 @@ ______
     <PromoManualOptions>
       <Item>
         <Bid>6</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -5942,7 +5942,7 @@ CPОЧHO ПИШИTE HАМ В ЧАТ!!!
     <PromoManualOptions>
       <Item>
         <Bid>6</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -6019,7 +6019,7 @@ CPОЧHO ПИШИTE HАМ В ЧАТ!!!
     <PromoManualOptions>
       <Item>
         <Bid>6</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -7470,7 +7470,7 @@ CPОЧHO ПИШИTE HАМ В ЧАТ!!!
     <PromoManualOptions>
       <Item>
         <Bid>6</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -10030,7 +10030,7 @@ ______
     <PromoManualOptions>
       <Item>
         <Bid>6</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -10183,7 +10183,7 @@ CPОЧHO ПИШИTE HАМ В ЧАТ!!!
     <PromoManualOptions>
       <Item>
         <Bid>6</Bid>
-        <DailyLimit>1500</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
@@ -10258,7 +10258,7 @@ ______
     <PromoManualOptions>
       <Item>
         <Bid>5</Bid>
-        <DailyLimit>100</DailyLimit>
+        <DailyLimit>50</DailyLimit>
       </Item>
     </PromoManualOptions>
   </Ad>
